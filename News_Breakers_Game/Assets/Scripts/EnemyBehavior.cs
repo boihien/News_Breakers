@@ -12,7 +12,7 @@ public class EnemyBehavior : MonoBehaviour
     void Start()
     {
         Hitpoints = MaxHitpoints;
-        Healthbar.SetHealth(Hitpoints, MaxHitpoints);
+        //Healthbar.SetHealth(Hitpoints, MaxHitpoints);
     }
 
     // Update is called once per frame
