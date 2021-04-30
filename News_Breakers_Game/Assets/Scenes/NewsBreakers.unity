@@ -1935,6 +1935,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   maxJumpCount: 2
+  hero: {fileID: 1490897442}
 --- !u!114 &1490897441
 MonoBehaviour:
   m_ObjectHideFlags: 0
