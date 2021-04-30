@@ -11,14 +11,15 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public LayerMask groundObjects;
     public int maxJumpCount;
-
+    public Animator hero;
+    
     private Rigidbody2D rb;
     private bool facingRight = true;
     private float moveDirection;
     private bool isGrounded;
     private bool isJumping = false;
     private int jumpCount;
-
+    
     //Awake is called after all objects are initialized. Called in random
     private void Awake()
     {
@@ -50,8 +51,8 @@ public class PlayerMovement : MonoBehaviour
         ProcessInputs();
 
         //Animate
-        Animate();
-
+        //Animate();
+        hero.SetFloat("Walk",Input.GetAxis("Horizontal"));
     }
 
     private void Move()
