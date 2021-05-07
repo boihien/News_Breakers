@@ -26,7 +26,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    public void Start()
+    private void Start()
     {
         jumpCount = maxJumpCount;
     }
