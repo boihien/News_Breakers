@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyBehavior : MonoBehaviour
 {
     public float Hitpoints;
-    public float MaxHitpoints = 5;
+    public float MaxHitpoints = 100;
     public HealthBarBehavior Healthbar;
 
     // Start is called before the first frame update
@@ -22,5 +22,12 @@ public class EnemyBehavior : MonoBehaviour
         if (Hitpoints <= 0) {
             Destroy(gameObject);
         }
+    }
+
+    void Destroy()
+    {
+        //Die animation
+
+        Debug.Log("Enemy died!");
     }
 }
