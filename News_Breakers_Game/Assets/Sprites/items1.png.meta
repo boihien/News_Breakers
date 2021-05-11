@@ -1,541 +1,457 @@
 fileFormatVersion: 2
-guid: dbd27c372ae1c5045af319c066b01a91
+guid: b1242692da5d14c2884a6235702289a5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1128947775675819744
-    second: armor_0
+      213: 7027316152575803653
+    second: items1_0
   - first:
-      213: -5367567284864621945
-    second: armor_1
+      213: 7844678153481922334
+    second: items1_1
   - first:
-      213: -504574306490611350
-    second: armor_2
+      213: 6266566958418955755
+    second: items1_2
   - first:
-      213: 7973886625310189405
-    second: armor_3
+      213: -1844513181151275611
+    second: items1_3
   - first:
-      213: 3072967742494045084
-    second: armor_4
+      213: 4023194386237098834
+    second: items1_4
   - first:
-      213: -9053114588808880918
-    second: armor_5
+      213: 5575240454402856288
+    second: items1_5
   - first:
-      213: -1952448351961915760
-    second: armor_6
+      213: -3466934339306529819
+    second: items1_6
   - first:
-      213: -6991610795186059062
-    second: armor_7
+      213: -7673278924591500253
+    second: items1_7
   - first:
-      213: 8744135167966358179
-    second: armor_8
+      213: -7723772215987878815
+    second: items1_8
   - first:
-      213: 4556646226286702201
-    second: armor_9
+      213: 33936292979840914
+    second: items1_9
   - first:
-      213: -5473900096767226145
-    second: armor_10
+      213: -6682419677213701485
+    second: items1_10
   - first:
-      213: 948203961127494294
-    second: armor_11
+      213: 8440419002851636430
+    second: items1_11
   - first:
-      213: -2048730905889478084
-    second: armor_12
+      213: 7050545883529508470
+    second: items1_12
   - first:
-      213: -5336724233994782135
-    second: armor_13
+      213: -2436078086230514410
+    second: items1_13
   - first:
-      213: -7056633585332838816
-    second: armor_14
+      213: -4149836063407761538
+    second: items1_14
   - first:
-      213: 7799322766015163260
-    second: armor_15
+      213: -2595347352140234001
+    second: items1_15
   - first:
-      213: -7481957102586866822
-    second: armor_16
+      213: 8194778688351439047
+    second: items1_16
   - first:
-      213: -4961922631348615037
-    second: armor_17
+      213: 8444013618984862147
+    second: items1_17
   - first:
-      213: 6150881297002022117
-    second: armor_18
+      213: -3182108451773120363
+    second: items1_18
   - first:
-      213: 2505823910624998816
-    second: armor_19
+      213: 1341572417191629964
+    second: items1_19
   - first:
-      213: -1136529584194843554
-    second: armor_20
+      213: -3939709940441476875
+    second: items1_20
   - first:
-      213: -8321897361059975000
-    second: armor_21
+      213: 6737547035081844382
+    second: items1_21
   - first:
-      213: -9059400451315346780
-    second: armor_22
+      213: 8677662860799361045
+    second: items1_22
   - first:
-      213: -6684927330984502258
-    second: armor_23
+      213: 1542163336723460985
+    second: items1_23
   - first:
-      213: -537388429866779568
-    second: armor_24
+      213: 3871840525147291028
+    second: items1_24
   - first:
-      213: -622008301061622599
-    second: armor_25
+      213: -3921223120199900332
+    second: items1_25
   - first:
-      213: 8291993087519169333
-    second: armor_26
+      213: -3022635875550092484
+    second: items1_26
   - first:
-      213: -7130586888248634645
-    second: armor_27
+      213: 3719770580086365604
+    second: items1_27
   - first:
-      213: 9220489364634426396
-    second: armor_28
+      213: -3625877080560699799
+    second: items1_28
   - first:
-      213: -6010503490740542874
-    second: armor_29
+      213: -3601043704560858538
+    second: items1_29
   - first:
-      213: 4698209952134004818
-    second: armor_30
+      213: -7871109164431364417
+    second: items1_30
   - first:
-      213: -8357262392293088368
-    second: armor_31
+      213: -1325531498672382930
+    second: items1_31
   - first:
-      213: -732020420964698375
-    second: armor_32
+      213: -2719051362656366528
+    second: items1_32
   - first:
-      213: 8084939783342006453
-    second: armor_33
+      213: 3985730004942236843
+    second: items1_33
   - first:
-      213: -8909594964821852321
-    second: armor_34
+      213: -8905262027503654984
+    second: items1_34
   - first:
-      213: -3548316171075815120
-    second: armor_35
+      213: -7171219370914263724
+    second: items1_35
   - first:
-      213: 8991803371253105363
-    second: armor_36
+      213: 6225501731002672188
+    second: items1_36
   - first:
-      213: -1704491300331819683
-    second: armor_37
+      213: -7497483717185182283
+    second: items1_37
   - first:
-      213: -5476114619248345184
-    second: armor_38
+      213: -3459359789621526460
+    second: items1_38
   - first:
-      213: -4396913523843664508
-    second: armor_39
+      213: 866230730294268582
+    second: items1_39
   - first:
-      213: -5445239931506412719
-    second: armor_40
+      213: 3641966594717444048
+    second: items1_40
   - first:
-      213: 6841016223721502302
-    second: armor_41
+      213: 7866433320227228627
+    second: items1_41
   - first:
-      213: 6768620040879384873
-    second: armor_42
+      213: -5214369907630992026
+    second: items1_42
   - first:
-      213: 3383092226962758835
-    second: armor_43
+      213: -1079272719490666766
+    second: items1_43
   - first:
-      213: -841387004688578542
-    second: armor_44
+      213: 6146300023481179153
+    second: items1_44
   - first:
-      213: 9023166813397936064
-    second: armor_45
+      213: -5535581229082037240
+    second: items1_45
   - first:
-      213: -3031234228743484797
-    second: armor_46
+      213: -5633596718736288986
+    second: items1_46
   - first:
-      213: 8825858539095711566
-    second: armor_47
+      213: 700537037121824324
+    second: items1_47
   - first:
-      213: 6058584722078114919
-    second: armor_48
+      213: -4610257910273407810
+    second: items1_48
   - first:
-      213: 6194845727881045758
-    second: armor_49
+      213: 1710074817611025188
+    second: items1_49
   - first:
-      213: 8153274467534370270
-    second: armor_50
+      213: 6032265375804714704
+    second: items1_50
   - first:
-      213: -6952603829882630523
-    second: armor_51
+      213: -4610991797204949449
+    second: items1_51
   - first:
-      213: 5840101569455841891
-    second: armor_52
+      213: -4628591122544617503
+    second: items1_52
   - first:
-      213: 6010928396394378255
-    second: armor_53
+      213: -862131694921739041
+    second: items1_53
   - first:
-      213: -1355988796857118838
-    second: armor_54
+      213: 7828127197152684866
+    second: items1_54
   - first:
-      213: -3586228064028705333
-    second: armor_55
+      213: -6881839705289502590
+    second: items1_55
   - first:
-      213: -5519979610899574188
-    second: armor_56
+      213: 3859210772634812571
+    second: items1_56
   - first:
-      213: 2455830690601357702
-    second: armor_57
+      213: 4705895467470176349
+    second: items1_57
   - first:
-      213: -4978446909692816512
-    second: armor_58
+      213: -7720880575385818700
+    second: items1_58
   - first:
-      213: -2560173021185952979
-    second: armor_59
+      213: 1356995036321581056
+    second: items1_59
   - first:
-      213: 5215719455233141969
-    second: armor_60
+      213: 3837003334955182897
+    second: items1_60
   - first:
-      213: -7564345534491899469
-    second: armor_61
+      213: -7150232102571086771
+    second: items1_61
   - first:
-      213: -703885056821242499
-    second: armor_62
+      213: -2658172591235977411
+    second: items1_62
   - first:
-      213: -4552714926669471104
-    second: armor_63
+      213: -3484743810109644015
+    second: items1_63
   - first:
-      213: 3115705746839507564
-    second: armor_64
+      213: -3334700949050671744
+    second: items1_64
   - first:
-      213: -4666535113347411374
-    second: armor_65
+      213: -6478304728941704822
+    second: items1_65
   - first:
-      213: -2221922263014963506
-    second: armor_66
+      213: -9206531812909900034
+    second: items1_66
   - first:
-      213: 7554811606078707671
-    second: armor_67
+      213: -4283089657499106537
+    second: items1_67
   - first:
-      213: 3002697098512922064
-    second: armor_68
+      213: -2863353403324379075
+    second: items1_68
   - first:
-      213: -5556416476298641371
-    second: armor_69
+      213: -2478612097732733261
+    second: items1_69
   - first:
-      213: 3232998847781099588
-    second: armor_70
+      213: 941209963978806371
+    second: items1_70
   - first:
-      213: -7491918039820531042
-    second: armor_71
+      213: 6230730386824104996
+    second: items1_71
   - first:
-      213: 3709760341290413787
-    second: armor_72
+      213: 8272643344671237016
+    second: items1_72
   - first:
-      213: -1107938796492665541
-    second: armor_73
+      213: -4378492335753717284
+    second: items1_73
   - first:
-      213: 1748428782637340440
-    second: armor_74
+      213: 1300994225026392549
+    second: items1_74
   - first:
-      213: -6346470619741046333
-    second: armor_75
+      213: -59861047211672263
+    second: items1_75
   - first:
-      213: 8260973590238689247
-    second: armor_76
+      213: 1985306141995713343
+    second: items1_76
   - first:
-      213: 6069519235964934883
-    second: armor_77
+      213: 7936288230377130005
+    second: items1_77
   - first:
-      213: -9188185789887619391
-    second: armor_78
+      213: 1932801135296565577
+    second: items1_78
   - first:
-      213: 7314164138099527942
-    second: armor_79
+      213: 8940726673560684646
+    second: items1_79
   - first:
-      213: 2073320932890862019
-    second: armor_80
+      213: -77312849076534934
+    second: items1_80
   - first:
-      213: -3938774878661427959
-    second: armor_81
+      213: -4897821563542074201
+    second: items1_81
   - first:
-      213: 6487740766070912532
-    second: armor_82
+      213: 342567686908953519
+    second: items1_82
   - first:
-      213: 3768398773150165118
-    second: armor_83
+      213: 6646658574232968846
+    second: items1_83
   - first:
-      213: -415641609289253660
-    second: armor_84
+      213: 8558845659117607002
+    second: items1_84
   - first:
-      213: -7859613611272078654
-    second: armor_85
+      213: 1589425996494346910
+    second: items1_85
   - first:
-      213: -1726290309970084273
-    second: armor_86
+      213: -1090653908766927870
+    second: items1_86
   - first:
-      213: 45648528235109328
-    second: armor_87
+      213: -2335878015859724862
+    second: items1_87
   - first:
-      213: -6985434648747698433
-    second: armor_88
+      213: -1224125530816692888
+    second: items1_88
   - first:
-      213: 5160316934797137572
-    second: armor_89
+      213: 1027273683481661684
+    second: items1_89
   - first:
-      213: -1203474772723207303
-    second: armor_90
+      213: -1085096600992572913
+    second: items1_90
   - first:
-      213: -482348184249376738
-    second: armor_91
+      213: -458912727817836557
+    second: items1_91
   - first:
-      213: -8252374963742149384
-    second: armor_92
+      213: 4217185065573555157
+    second: items1_92
   - first:
-      213: 340102779229667567
-    second: armor_93
+      213: -2289922900518978694
+    second: items1_93
   - first:
-      213: -2421864938144430489
-    second: armor_94
+      213: 6947377745027594705
+    second: items1_94
   - first:
-      213: 5558037294234365863
-    second: armor_95
+      213: 5435866056107472557
+    second: items1_95
   - first:
-      213: 9080071113786275576
-    second: armor_96
+      213: -5746795701955310497
+    second: items1_96
   - first:
-      213: 8951407643780359791
-    second: armor_97
+      213: -3767802599198959936
+    second: items1_97
   - first:
-      213: -3820085000557911014
-    second: armor_98
+      213: 742482594148719307
+    second: items1_98
   - first:
-      213: 7363856361367677942
-    second: armor_99
+      213: 6356038594337887764
+    second: items1_99
   - first:
-      213: 5028080923687769458
-    second: armor_100
+      213: 3090159513946920151
+    second: items1_100
   - first:
-      213: -2316486237424297147
-    second: armor_101
+      213: 5397584112496993545
+    second: items1_101
   - first:
-      213: -7784332420641784492
-    second: armor_102
+      213: 6480003857161439598
+    second: items1_102
   - first:
-      213: -6038417013151302331
-    second: armor_103
+      213: 3811710216997549189
+    second: items1_103
   - first:
-      213: -3082956468787681928
-    second: armor_104
+      213: -564128645802602394
+    second: items1_104
   - first:
-      213: -7909581302441742548
-    second: armor_105
+      213: -6335092862757094383
+    second: items1_105
   - first:
-      213: 5593623672163702759
-    second: armor_106
+      213: 8669302274989337107
+    second: items1_106
   - first:
-      213: 493977760778048980
-    second: armor_107
+      213: 6644351950883616766
+    second: items1_107
   - first:
-      213: 6510335494121602144
-    second: armor_108
+      213: -3784583437817277500
+    second: items1_108
   - first:
-      213: -5119757781614180097
-    second: armor_109
+      213: 5193254494179744613
+    second: items1_109
   - first:
-      213: 457417676644568858
-    second: armor_110
+      213: -5279466251600142936
+    second: items1_110
   - first:
-      213: -6353219389840540468
-    second: armor_111
+      213: 5615986157606730083
+    second: items1_111
   - first:
-      213: -1834152197061093740
-    second: armor_112
+      213: -5334345791326727151
+    second: items1_112
   - first:
-      213: 4245866690818928568
-    second: armor_113
+      213: -6294151853892203648
+    second: items1_113
   - first:
-      213: 4434412729021783698
-    second: armor_114
+      213: 8833553010582281199
+    second: items1_114
   - first:
-      213: -9167666260244118567
-    second: armor_115
+      213: -5782648529815006783
+    second: items1_115
   - first:
-      213: -3100139522360360224
-    second: armor_116
+      213: 8811827254516173270
+    second: items1_116
   - first:
-      213: 9064124288759026068
-    second: armor_117
+      213: 224045983999629508
+    second: items1_117
   - first:
-      213: 928809067737063150
-    second: armor_118
+      213: -173959228831824027
+    second: items1_118
   - first:
-      213: 4229451821103132449
-    second: armor_119
+      213: -5730402783822263070
+    second: items1_119
   - first:
-      213: 6508666183504285381
-    second: armor_120
+      213: 1248940184780095562
+    second: items1_120
   - first:
-      213: 682432842381161357
-    second: armor_121
+      213: -8624096884090191905
+    second: items1_121
   - first:
-      213: -6158578969505585559
-    second: armor_122
+      213: 3782591667560273270
+    second: items1_122
   - first:
-      213: 2697494550868345794
-    second: armor_123
+      213: -6307025249718896809
+    second: items1_123
   - first:
-      213: 2514788802314932708
-    second: armor_124
+      213: 2182337969987655506
+    second: items1_124
   - first:
-      213: -994611232245979793
-    second: armor_125
+      213: 5594233347540205673
+    second: items1_125
   - first:
-      213: -4846794781221262004
-    second: armor_126
+      213: 5388259877526124718
+    second: items1_126
   - first:
-      213: -6100058882732455997
-    second: armor_127
+      213: -3341327682455782318
+    second: items1_127
   - first:
-      213: -8716880978804082240
-    second: armor_128
+      213: 5809159890626116910
+    second: items1_128
   - first:
-      213: 7701639276547099668
-    second: armor_129
+      213: -2694433403015522249
+    second: items1_129
   - first:
-      213: -2295916620703008964
-    second: armor_130
+      213: -2282002090786777459
+    second: items1_130
   - first:
-      213: -5053125447761960994
-    second: armor_131
+      213: -3618549837659312497
+    second: items1_131
   - first:
-      213: -8299758008580074600
-    second: armor_132
+      213: -3186262526813576740
+    second: items1_132
   - first:
-      213: -730900858664356092
-    second: armor_133
+      213: -7034396300248670469
+    second: items1_133
   - first:
-      213: -6616367081616336151
-    second: armor_134
+      213: -8177666411404815623
+    second: items1_134
   - first:
-      213: -9160291730774152554
-    second: armor_135
+      213: 1325104192391099159
+    second: items1_135
   - first:
-      213: -3311349364153526102
-    second: armor_136
+      213: -1144555160048877290
+    second: items1_136
   - first:
-      213: 8058731568638646814
-    second: armor_137
+      213: 5647431970656994082
+    second: items1_137
   - first:
-      213: -8230136626695276257
-    second: armor_138
+      213: 8035124114414882030
+    second: items1_138
   - first:
-      213: 2656241023314359000
-    second: armor_139
+      213: -8451765295586118476
+    second: items1_139
   - first:
-      213: 487194608865464710
-    second: armor_140
+      213: -2222053669122636145
+    second: items1_140
   - first:
-      213: 7436019139679288448
-    second: armor_141
+      213: -534878129724208865
+    second: items1_141
   - first:
-      213: 2431711703889443541
-    second: armor_142
+      213: 5330258677150085162
+    second: items1_142
   - first:
-      213: -7239791331703767715
-    second: armor_143
+      213: -6218110885825324378
+    second: items1_143
   - first:
-      213: -3384966796416175793
-    second: armor_144
+      213: -2981181898063012865
+    second: items1_144
   - first:
-      213: 5072159901781926697
-    second: armor_145
+      213: -2852554751115466930
+    second: items1_145
   - first:
-      213: 1389856321032152563
-    second: armor_146
+      213: -920424614984766932
+    second: items1_146
   - first:
-      213: -5230505115227224451
-    second: armor_147
+      213: -1368058182281286375
+    second: items1_147
   - first:
-      213: 1179100502881913456
-    second: armor_148
+      213: -9146025934026691936
+    second: items1_148
   - first:
-      213: -5886626718882565984
-    second: armor_149
-  - first:
-      213: -991550715659097784
-    second: armor_150
-  - first:
-      213: 1079631037691920926
-    second: armor_151
-  - first:
-      213: -7156983991604276552
-    second: armor_152
-  - first:
-      213: 7438903706178411387
-    second: armor_153
-  - first:
-      213: 5531474982748769965
-    second: armor_154
-  - first:
-      213: 4876275276492721873
-    second: armor_155
-  - first:
-      213: -2332314527621914965
-    second: armor_156
-  - first:
-      213: -946345409744600548
-    second: armor_157
-  - first:
-      213: -7605184697414598150
-    second: armor_158
-  - first:
-      213: 2117422643731442239
-    second: armor_159
-  - first:
-      213: 8327091880263161945
-    second: armor_160
-  - first:
-      213: 3829032582671037502
-    second: armor_161
-  - first:
-      213: -400537370921482440
-    second: armor_162
-  - first:
-      213: -194988382367203688
-    second: armor_163
-  - first:
-      213: -125772772040689251
-    second: armor_164
-  - first:
-      213: 5330647781198848056
-    second: armor_165
-  - first:
-      213: -8475935615141451867
-    second: armor_166
-  - first:
-      213: 875828619999178211
-    second: armor_167
-  - first:
-      213: 2414941774601269248
-    second: armor_168
-  - first:
-      213: 6692802663365113768
-    second: armor_169
-  - first:
-      213: -7284770182811546286
-    second: armor_170
-  - first:
-      213: -1007760044065141095
-    second: armor_171
-  - first:
-      213: -1259401126546718919
-    second: armor_172
-  - first:
-      213: -6086960654436812352
-    second: armor_173
-  - first:
-      213: 3280529903247564153
-    second: armor_174
-  - first:
-      213: 727182937098413803
-    second: armor_175
-  - first:
-      213: 234548478632172346
-    second: armor_176
-  - first:
-      213: -5544404601762628356
-    second: armor_177
+      213: 7345783390777011487
+    second: items1_149
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -625,13 +541,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: armor_0
+      name: items1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,20 +555,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02910ecbafb2550f0800000000000000
-      internalID: -1128947775675819744
+      spriteID: 50145a6feca068160800000000000000
+      internalID: 7027316152575803653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_1
+      name: items1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ae8bb735eddc60800000000000000
+      internalID: 7844678153481922334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,20 +597,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 782e2a53ef19285b0800000000000000
-      internalID: -5367567284864621945
+      spriteID: bed03cd627157f650800000000000000
+      internalID: 6266566958418955755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_2
+      name: items1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d3fdc809f666e0800000000000000
+      internalID: -1844513181151275611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_4
       rect:
         serializedVersion: 2
         x: 128
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,20 +639,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6986d277546ff8f0800000000000000
-      internalID: -504574306490611350
+      spriteID: 25b020e7af145d730800000000000000
+      internalID: 4023194386237098834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_3
+      name: items1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d11687ab3f5d40800000000000000
+      internalID: 5575240454402856288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_6
       rect:
         serializedVersion: 2
         x: 192
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -702,20 +681,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d572ad463afe8ae60800000000000000
-      internalID: 7973886625310189405
+      spriteID: 5ebd7064699f2efc0800000000000000
+      internalID: -3466934339306529819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_4
+      name: items1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247b3d0979038590800000000000000
+      internalID: -7673278924591500253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_8
       rect:
         serializedVersion: 2
         x: 256
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -723,20 +723,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c93779961ef55aa20800000000000000
-      internalID: 3072967742494045084
+      spriteID: 164c2048716afc490800000000000000
+      internalID: -7723772215987878815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_5
+      name: items1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2979e00f0e0987000800000000000000
+      internalID: 33936292979840914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_10
       rect:
         serializedVersion: 2
         x: 320
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -744,20 +765,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aecd3273f30ec5280800000000000000
-      internalID: -9053114588808880918
+      spriteID: 39ac89365b64343a0800000000000000
+      internalID: -6682419677213701485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_6
+      name: items1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4bd642d54622570800000000000000
+      internalID: 8440419002851636430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_12
       rect:
         serializedVersion: 2
         x: 384
-        y: 1280
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,20 +807,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09e5303819287e4e0800000000000000
-      internalID: -1952448351961915760
+      spriteID: 6767e5c202298d160800000000000000
+      internalID: 7050545883529508470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_7
+      name: items1_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1216
-        width: 64
-        height: 64
+        x: 416
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,587 +828,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac80621660fc8fe90800000000000000
-      internalID: -6991610795186059062
+      spriteID: 615ed1133ef413ed0800000000000000
+      internalID: -2436078086230514410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_8
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1216
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3aaa2aa5b98695970800000000000000
-      internalID: 8744135167966358179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_9
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1216
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97e61f4c9957c3f30800000000000000
-      internalID: 4556646226286702201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_10
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 1216
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fde863c2ddcc804b0800000000000000
-      internalID: -5473900096767226145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_11
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1216
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6926f959a72b82d00800000000000000
-      internalID: 948203961127494294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_12
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1216
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3ae71288127193e0800000000000000
-      internalID: -2048730905889478084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_13
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 1216
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94ab588959520f5b0800000000000000
-      internalID: -5336724233994782135
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06e152c442dc11e90800000000000000
-      internalID: -7056633585332838816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_15
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c7b63fcabb2cc3c60800000000000000
-      internalID: 7799322766015163260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_16
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a73599308afba2890800000000000000
-      internalID: -7481957102586866822
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_17
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3888e7bf7a5b32bb0800000000000000
-      internalID: -4961922631348615037
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_18
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e4466b63f15c5550800000000000000
-      internalID: 6150881297002022117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_19
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a5bb7ef19976c220800000000000000
-      internalID: 2505823910624998816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_20
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 1152
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5c08516d5c3a30f0800000000000000
-      internalID: -1136529584194843554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_21
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a072c0017ea28c80800000000000000
-      internalID: -8321897361059975000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_22
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a2d55dc94b864280800000000000000
-      internalID: -9059400451315346780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_23
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0c5e5fb20e5a33a0800000000000000
-      internalID: -6684927330984502258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_24
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05cb26bf110da88f0800000000000000
-      internalID: -537388429866779568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_25
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b4b0e7eebe2e57f0800000000000000
-      internalID: -622008301061622599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_26
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53b139db7c3131370800000000000000
-      internalID: 8291993087519169333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_27
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 1088
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be2d1ed21011b0d90800000000000000
-      internalID: -7130586888248634645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_28
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1c5d429932c5ff70800000000000000
-      internalID: 9220489364634426396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_29
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6622a219be6669ca0800000000000000
-      internalID: -6010503490740542874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_30
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 250072d2f05633140800000000000000
-      internalID: 4698209952134004818
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_31
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 093a3a4022a050c80800000000000000
-      internalID: -8357262392293088368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_32
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f631183e4757d5f0800000000000000
-      internalID: -732020420964698375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_33
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b02688a5e9733070800000000000000
-      internalID: 8084939783342006453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_34
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 1024
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5f3f25a592ca5480800000000000000
-      internalID: -8909594964821852321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_35
+      name: items1_14
       rect:
         serializedVersion: 2
         x: 448
-        y: 1024
-        width: 64
-        height: 64
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1374,20 +849,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03970400e39d1cec0800000000000000
-      internalID: -3548316171075815120
+      spriteID: e77997c4612d866c0800000000000000
+      internalID: -4149836063407761538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_36
+      name: items1_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960
-        width: 64
-        height: 64
+        x: 480
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1395,1385 +870,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d283b9868d49cc70800000000000000
-      internalID: 8991803371253105363
+      spriteID: fe24eee75597bfbd0800000000000000
+      internalID: -2595347352140234001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_37
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5d6af0713e6858e0800000000000000
-      internalID: -1704491300331819683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_38
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0aff06a74cee004b0800000000000000
-      internalID: -5476114619248345184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_39
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 485ff2722760bf2c0800000000000000
-      internalID: -4396913523843664508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_40
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 153b9c5e12f9e64b0800000000000000
-      internalID: -5445239931506412719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_41
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e56ba9d920c20fe50800000000000000
-      internalID: 6841016223721502302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_42
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 929a434c018feed50800000000000000
-      internalID: 6768620040879384873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_43
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 960
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bc108eb47823fe20800000000000000
-      internalID: 3383092226962758835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_44
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21848e22afac254f0800000000000000
-      internalID: -841387004688578542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_45
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c76da5f86ab83d70800000000000000
-      internalID: 9023166813397936064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_46
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38a4db47784eee5d0800000000000000
-      internalID: -3031234228743484797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_47
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4fd5a4749fbb7a70800000000000000
-      internalID: 8825858539095711566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_48
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 764231974ba641450800000000000000
-      internalID: 6058584722078114919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_49
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef622b82e5388f550800000000000000
-      internalID: 6194845727881045758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_50
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed5f5a92eef362170800000000000000
-      internalID: 8153274467534370270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_51
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 896
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58e43d737a3638f90800000000000000
-      internalID: -6952603829882630523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_52
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 362ed9b6f653c0150800000000000000
-      internalID: 5840101569455841891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_53
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f04356d778b1b6350800000000000000
-      internalID: 6010928396394378255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_54
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8f0ce3af5f8e2de0800000000000000
-      internalID: -1355988796857118838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_55
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcd380093982b3ec0800000000000000
-      internalID: -3586228064028705333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_56
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4529eec3ac71563b0800000000000000
-      internalID: -5519979610899574188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_57
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 681dbc5600dd41220800000000000000
-      internalID: 2455830690601357702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_58
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0835e9e99e009eab0800000000000000
-      internalID: -4978446909692816512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_59
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 832
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d233cac9330787cd0800000000000000
-      internalID: -2560173021185952979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_60
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1dce341e535f16840800000000000000
-      internalID: 5215719455233141969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_61
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b94c4260db060790800000000000000
-      internalID: -7564345534491899469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_62
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d75d679254c4b36f0800000000000000
-      internalID: -703885056821242499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_63
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0826f3045e181d0c0800000000000000
-      internalID: -4552714926669471104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_64
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6213097ed53d3b20800000000000000
-      internalID: 3115705746839507564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_65
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2525a0de9032d3fb0800000000000000
-      internalID: -4666535113347411374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_66
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec6067a59752a21e0800000000000000
-      internalID: -2221922263014963506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_67
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d7d15de02518d860800000000000000
-      internalID: 7554811606078707671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_68
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 768
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d575f42a19bba920800000000000000
-      internalID: 3002697098512922064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_69
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 520871a67a4a3e2b0800000000000000
-      internalID: -5556416476298641371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_70
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4485d39a25beddc20800000000000000
-      internalID: 3232998847781099588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_71
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9a08269c3c570890800000000000000
-      internalID: -7491918039820531042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_72
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bde62701067bb7330800000000000000
-      internalID: 3709760341290413787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_73
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3d4e22e88fcf90f0800000000000000
-      internalID: -1107938796492665541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_74
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 817da28d6baa34810800000000000000
-      internalID: 1748428782637340440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_75
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c9b1eca89ecce7a0800000000000000
-      internalID: -6346470619741046333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_76
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd77f0936bfd4a270800000000000000
-      internalID: 8260973590238689247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_77
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 704
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ea171166934b3450800000000000000
-      internalID: 6069519235964934883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_78
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ced47784b10d7080800000000000000
-      internalID: -9188185789887619391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_79
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 601d2501881218560800000000000000
-      internalID: 7314164138099527942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_80
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c1675e476ae5cc10800000000000000
-      internalID: 2073320932890862019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_81
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90d372bcd19a659c0800000000000000
-      internalID: -3938774878661427959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_82
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4163a7c6ad5190a50800000000000000
-      internalID: 6487740766070912532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_83
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7822a5e7ba0c4430800000000000000
-      internalID: 3768398773150165118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_84
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ec317498285b3af0800000000000000
-      internalID: -415641609289253660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_85
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ca7d44001b0de290800000000000000
-      internalID: -7859613611272078654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_86
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 640
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4eb80ffb1cfa08e0800000000000000
-      internalID: -1726290309970084273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_87
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0db19f5381d22a000800000000000000
-      internalID: 45648528235109328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_88
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff610b78230ce0f90800000000000000
-      internalID: -6985434648747698433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_89
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a6140369e02d9740800000000000000
-      internalID: 5160316934797137572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_90
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97370bb02166c4fe0800000000000000
-      internalID: -1203474772723207303
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_91
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e10e2cbc1ea5e49f0800000000000000
-      internalID: -482348184249376738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_92
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f472d481bca97d80800000000000000
-      internalID: -8252374963742149384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_93
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe08b1ffca948b400800000000000000
-      internalID: 340102779229667567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_94
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7668deb9baec36ed0800000000000000
-      internalID: -2421864938144430489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_95
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 576
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7af663ba87d122d40800000000000000
-      internalID: 5558037294234365863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_96
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f63488d194e20e70800000000000000
-      internalID: 9080071113786275576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_97
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f66ae3f43d9c93c70800000000000000
-      internalID: 8951407643780359791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_98
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a14a2f18ee45cfac0800000000000000
-      internalID: -3820085000557911014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_99
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fb2254685ca13660800000000000000
-      internalID: 7363856361367677942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_100
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 275d35ec5f457c540800000000000000
-      internalID: 5028080923687769458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_101
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 512
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54b5e335a003adfd0800000000000000
-      internalID: -2316486237424297147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_102
+      name: items1_16
       rect:
         serializedVersion: 2
         x: 0
         y: 448
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2781,20 +891,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45df61618ee78f390800000000000000
-      internalID: -7784332420641784492
+      spriteID: 7c8012c9cc3b9b170800000000000000
+      internalID: 8194778688351439047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_103
+      name: items1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1472ee5a92f2570800000000000000
+      internalID: 8444013618984862147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_18
       rect:
         serializedVersion: 2
         x: 64
         y: 448
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2802,20 +933,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54df07d28bb333ca0800000000000000
-      internalID: -6038417013151302331
+      spriteID: 5908b4ff831e6d3d0800000000000000
+      internalID: -3182108451773120363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_104
+      name: items1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c845b2761093e9210800000000000000
+      internalID: 1341572417191629964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_20
       rect:
         serializedVersion: 2
         x: 128
         y: 448
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2823,20 +975,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 875eae30d632735d0800000000000000
-      internalID: -3082956468787681928
+      spriteID: 5f019e1cea65359c0800000000000000
+      internalID: -3939709940441476875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_105
+      name: items1_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962a83d453908d50800000000000000
+      internalID: 6737547035081844382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_22
       rect:
         serializedVersion: 2
         x: 192
         y: 448
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2844,20 +1017,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2f63e156b58b3290800000000000000
-      internalID: -7909581302441742548
+      spriteID: 510cb8a45604d6870800000000000000
+      internalID: 8677662860799361045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_106
+      name: items1_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973780f426dd66510800000000000000
+      internalID: 1542163336723460985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_24
       rect:
         serializedVersion: 2
         x: 256
         y: 448
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2865,20 +1059,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e79882f71b80ad40800000000000000
-      internalID: 5593623672163702759
+      spriteID: 49dbd58917a8bb530800000000000000
+      internalID: 3871840525147291028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_107
+      name: items1_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453af6309540599c0800000000000000
+      internalID: -3921223120199900332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_26
       rect:
         serializedVersion: 2
         x: 320
         y: 448
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2886,20 +1101,461 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d55e1ef726fad600800000000000000
-      internalID: 493977760778048980
+      spriteID: c332c709fa07d06d0800000000000000
+      internalID: -3022635875550092484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_108
+      name: items1_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1ff762a74f9330800000000000000
+      internalID: 3719770580086365604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f2f5810c4eadc0800000000000000
+      internalID: -3625877080560699799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a4ef074d5860ec0800000000000000
+      internalID: -3601043704560858538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2fb9fae334c290800000000000000
+      internalID: -7871109164431364417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9a0bff14ca9de0800000000000000
+      internalID: -1325531498672382930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04053da113df34ad0800000000000000
+      internalID: -2719051362656366528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca23b7258205730800000000000000
+      internalID: 3985730004942236843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7aeda3e572a6480800000000000000
+      internalID: -8905262027503654984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d41461af5ba7c90800000000000000
+      internalID: -7171219370914263724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346ef817dc656650800000000000000
+      internalID: 6225501731002672188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e6e7584693f790800000000000000
+      internalID: -7497483717185182283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440c65d8992edffc0800000000000000
+      internalID: -3459359789621526460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a297bc7248750c00800000000000000
+      internalID: 866230730294268582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e8f9625dda8230800000000000000
+      internalID: 3641966594717444048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc0753d6f2b2d60800000000000000
+      internalID: 7866433320227228627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651b282236d2a7b0800000000000000
+      internalID: -5214369907630992026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2dfa0e27a501f0800000000000000
+      internalID: -1079272719490666766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c129e8e4b0c4550800000000000000
+      internalID: 6146300023481179153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804be3f633aad23b0800000000000000
+      internalID: -5535581229082037240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623dae3e1a171d1b0800000000000000
+      internalID: -5633596718736288986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a6a149bec8b900800000000000000
+      internalID: 700537037121824324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_48
       rect:
         serializedVersion: 2
         x: 0
         y: 384
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2907,20 +1563,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06c3cbf73ab595a50800000000000000
-      internalID: 6510335494121602144
+      spriteID: eb408375bd21500c0800000000000000
+      internalID: -4610257910273407810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_109
+      name: items1_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcb0b7cf76bb710800000000000000
+      internalID: 1710074817611025188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_50
       rect:
         serializedVersion: 2
         x: 64
         y: 384
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2928,20 +1605,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff848da5c67f2f8b0800000000000000
-      internalID: -5119757781614180097
+      spriteID: 0de6ab32669e6b350800000000000000
+      internalID: 6032265375804714704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_110
+      name: items1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736eb59f3677200c0800000000000000
+      internalID: -4610991797204949449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_52
       rect:
         serializedVersion: 2
         x: 128
         y: 384
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2949,20 +1647,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1f426214f2195600800000000000000
-      internalID: 457417676644568858
+      spriteID: 1e7933ab5e0f3cfb0800000000000000
+      internalID: -4628591122544617503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_111
+      name: items1_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4959e8ac71904f0800000000000000
+      internalID: -862131694921739041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_54
       rect:
         serializedVersion: 2
         x: 192
         y: 384
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2970,20 +1689,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccc3e6030a4d4d7a0800000000000000
-      internalID: -6353219389840540468
+      spriteID: 24b2cdae53813ac60800000000000000
+      internalID: 7828127197152684866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_112
+      name: items1_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805a05ef3bce70a0800000000000000
+      internalID: -6881839705289502590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_56
       rect:
         serializedVersion: 2
         x: 256
         y: 384
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2991,20 +1731,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 496db266b48cb86e0800000000000000
-      internalID: -1834152197061093740
+      spriteID: b90424030cbae8530800000000000000
+      internalID: 3859210772634812571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_113
+      name: items1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504ea8aef2be4140800000000000000
+      internalID: 4705895467470176349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_58
       rect:
         serializedVersion: 2
         x: 320
         y: 384
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3012,20 +1773,461 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bfeced72495cea30800000000000000
-      internalID: 4245866690818928568
+      spriteID: 4b92aee060ce9d490800000000000000
+      internalID: -7720880575385818700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_114
+      name: items1_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0088aedbbc305d210800000000000000
+      internalID: 1356995036321581056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2efd2436cf3530800000000000000
+      internalID: 3837003334955182897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce7a849c545cc90800000000000000
+      internalID: -7150232102571086771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f23b3ac164c1bd0800000000000000
+      internalID: -2658172591235977411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136c29b7f3b3afc0800000000000000
+      internalID: -3484743810109644015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3da3a723c8b1d0800000000000000
+      internalID: -3334700949050671744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8942bc2c207816a0800000000000000
+      internalID: -6478304728941704822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1c2e2814db3080800000000000000
+      internalID: -9206531812909900034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713cd9736a86f84c0800000000000000
+      internalID: -4283089657499106537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d17810435348d0800000000000000
+      internalID: -2863353403324379075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b697aaed633a9dd0800000000000000
+      internalID: -2478612097732733261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d30ab979df0d00800000000000000
+      internalID: 941209963978806371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c02e56640087650800000000000000
+      internalID: 6230730386824104996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e0a8aa455ec270800000000000000
+      internalID: 8272643344671237016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd911ab3b687c33c0800000000000000
+      internalID: -4378492335753717284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1688dca5f0e0210800000000000000
+      internalID: 1300994225026392549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93db019d1b45b2ff0800000000000000
+      internalID: -59861047211672263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f334e04ea693d8b10800000000000000
+      internalID: 1985306141995713343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5180eb6e81c532e60800000000000000
+      internalID: 7936288230377130005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d2d26460b2da10800000000000000
+      internalID: 1932801135296565577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668c1732a87d31c70800000000000000
+      internalID: 8940726673560684646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_80
       rect:
         serializedVersion: 2
         x: 0
         y: 320
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3033,20 +2235,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29e50dce1e23a8d30800000000000000
-      internalID: 4434412729021783698
+      spriteID: a6148369f545deef0800000000000000
+      internalID: -77312849076534934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_115
+      name: items1_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac83dbdc31770cb0800000000000000
+      internalID: -4897821563542074201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_82
       rect:
         serializedVersion: 2
         x: 64
         y: 320
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3054,20 +2277,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d3c0d2db18e5c080800000000000000
-      internalID: -9167666260244118567
+      spriteID: fa34cb90f7b01c400800000000000000
+      internalID: 342567686908953519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_116
+      name: items1_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed57cf1ccad3c50800000000000000
+      internalID: 6646658574232968846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_84
       rect:
         serializedVersion: 2
         x: 128
         y: 320
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3075,20 +2319,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e2cf8797871af4d0800000000000000
-      internalID: -3100139522360360224
+      spriteID: a58591fb7c027c670800000000000000
+      internalID: 8558845659117607002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_117
+      name: items1_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a11ddc586ce0610800000000000000
+      internalID: 1589425996494346910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_86
       rect:
         serializedVersion: 2
         x: 192
         y: 320
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3096,20 +2361,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 491d87f440d3acd70800000000000000
-      internalID: 9064124288759026068
+      spriteID: 2045e0b6c083dd0f0800000000000000
+      internalID: -1090653908766927870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_118
+      name: items1_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd6902125b459fd0800000000000000
+      internalID: -2335878015859724862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_88
       rect:
         serializedVersion: 2
         x: 256
         y: 320
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3117,20 +2403,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eee11a21deac3ec00800000000000000
-      internalID: 928809067737063150
+      spriteID: 86d3f2fb058030fe0800000000000000
+      internalID: -1224125530816692888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_119
+      name: items1_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0180fe8fb914e00800000000000000
+      internalID: 1027273683481661684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_90
       rect:
         serializedVersion: 2
         x: 320
         y: 320
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3138,20 +2445,461 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12f2b7fc50802ba30800000000000000
-      internalID: 4229451821103132449
+      spriteID: f0a9ad6f366f0f0f0800000000000000
+      internalID: -1085096600992572913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_120
+      name: items1_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f723833e4d91a9f0800000000000000
+      internalID: -458912727817836557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db18993973768a30800000000000000
+      internalID: 4217185065573555157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb887214f8830e0800000000000000
+      internalID: -2289922900518978694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f2d4104b0a6060800000000000000
+      internalID: 6947377745027594705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b3e8a063107b40800000000000000
+      internalID: 5435866056107472557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4634c1c74f30b0800000000000000
+      internalID: -5746795701955310497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d3faaf7316bbc0800000000000000
+      internalID: -3767802599198959936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca152c4cf3dd4a00800000000000000
+      internalID: 742482594148719307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416de220d6f253850800000000000000
+      internalID: 6356038594337887764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49910a4b372ea20800000000000000
+      internalID: 3090159513946920151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905eca6172218ea40800000000000000
+      internalID: 5397584112496993545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c441fc299de950800000000000000
+      internalID: 6480003857161439598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584bdde3f3ae5e430800000000000000
+      internalID: 3811710216997549189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660505b4cffcb28f0800000000000000
+      internalID: -564128645802602394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c30482b9a3518a0800000000000000
+      internalID: -6335092862757094383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa937bc7c8f4870800000000000000
+      internalID: 8669302274989337107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7771365ea753c50800000000000000
+      internalID: 6644351950883616766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c313163a657a7bc0800000000000000
+      internalID: -3784583437817277500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd8c98275221840800000000000000
+      internalID: 5193254494179744613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add5bd7a619bb6b0800000000000000
+      internalID: -5279466251600142936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f8a3d7adffed40800000000000000
+      internalID: 5615986157606730083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_112
       rect:
         serializedVersion: 2
         x: 0
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3159,20 +2907,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cece55d86d635a50800000000000000
-      internalID: 6508666183504285381
+      spriteID: 114dedee3c898f5b0800000000000000
+      internalID: -5334345791326727151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_121
+      name: items1_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b836a9c3ea6a8a0800000000000000
+      internalID: -6294151853892203648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_114
       rect:
         serializedVersion: 2
         x: 64
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3180,20 +2949,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d837031fd0d787900800000000000000
-      internalID: 682432842381161357
+      spriteID: febd65439a5179a70800000000000000
+      internalID: 8833553010582281199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_122
+      name: items1_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c11177ccc7efbfa0800000000000000
+      internalID: -5782648529815006783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_116
       rect:
         serializedVersion: 2
         x: 128
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3201,20 +2991,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 966ad698e05588aa0800000000000000
-      internalID: -6158578969505585559
+      spriteID: 6d9ca8f6336e94a70800000000000000
+      internalID: 8811827254516173270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_123
+      name: items1_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c896a9a2a8fb1300800000000000000
+      internalID: 224045983999629508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_118
       rect:
         serializedVersion: 2
         x: 192
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3222,20 +3033,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c34f08800d6f6520800000000000000
-      internalID: 2697494550868345794
+      spriteID: 5670418c009f59df0800000000000000
+      internalID: -173959228831824027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_124
+      name: items1_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4d5277058970b0800000000000000
+      internalID: -5730402783822263070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_120
       rect:
         serializedVersion: 2
         x: 256
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3243,20 +3075,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e19c1f771356e220800000000000000
-      internalID: 2514788802314932708
+      spriteID: a40478b1b70255110800000000000000
+      internalID: 1248940184780095562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_125
+      name: items1_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf304b839d015880800000000000000
+      internalID: -8624096884090191905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_122
       rect:
         serializedVersion: 2
         x: 320
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3264,20 +3117,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f656d5c9a5e6232f0800000000000000
-      internalID: -994611232245979793
+      spriteID: 6755843a4177e7430800000000000000
+      internalID: 3782591667560273270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_126
+      name: items1_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f51193f1f878a0800000000000000
+      internalID: -6307025249718896809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_124
       rect:
         serializedVersion: 2
         x: 384
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3285,20 +3159,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4de61e63d9bcbcb0800000000000000
-      internalID: -4846794781221262004
+      spriteID: 25716f832d8394e10800000000000000
+      internalID: 2182337969987655506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_127
+      name: items1_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96047ce0795b2ad40800000000000000
+      internalID: 5594233347540205673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_126
       rect:
         serializedVersion: 2
         x: 448
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3306,20 +3201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c704c104cc385ba0800000000000000
-      internalID: -6100058882732455997
+      spriteID: ea83f657fc1f6ca40800000000000000
+      internalID: 5388259877526124718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_128
+      name: items1_127
       rect:
         serializedVersion: 2
-        x: 512
+        x: 480
         y: 256
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3327,104 +3222,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c9f50d0fea670780800000000000000
-      internalID: -8716880978804082240
+      spriteID: 25c3b090d2831a1d0800000000000000
+      internalID: -3341327682455782318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_129
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41c49c2fd18b1ea60800000000000000
-      internalID: 7701639276547099668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_130
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c37f41d6ff34320e0800000000000000
-      internalID: -2295916620703008964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_131
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edf59a88d21bfd9b0800000000000000
-      internalID: -5053125447761960994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_132
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89391e0b01651dc80800000000000000
-      internalID: -8299758008580074600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_133
+      name: items1_128
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3432,20 +3243,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4077841aa815bd5f0800000000000000
-      internalID: -730900858664356092
+      spriteID: e2d773c64284e9050800000000000000
+      internalID: 5809159890626116910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_134
+      name: items1_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738105e78137b9ad0800000000000000
+      internalID: -2694433403015522249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_130
       rect:
         serializedVersion: 2
         x: 64
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3453,20 +3285,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ea9bacb131fd24a0800000000000000
-      internalID: -6616367081616336151
+      spriteID: d8694f16033b450e0800000000000000
+      internalID: -2282002090786777459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_135
+      name: items1_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ee444381458cdc0800000000000000
+      internalID: -3618549837659312497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_132
       rect:
         serializedVersion: 2
         x: 128
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3474,20 +3327,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69a2244443b10e080800000000000000
-      internalID: -9160291730774152554
+      spriteID: cd163280d1f18c3d0800000000000000
+      internalID: -3186262526813576740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_136
+      name: items1_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe1b52b5ddc06e90800000000000000
+      internalID: -7034396300248670469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_134
       rect:
         serializedVersion: 2
         x: 192
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3495,20 +3369,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa8d96e2c49bb02d0800000000000000
-      internalID: -3311349364153526102
+      spriteID: 9f29298d9b7138e80800000000000000
+      internalID: -8177666411404815623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_137
+      name: items1_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133ad50e37b36210800000000000000
+      internalID: 1325104192391099159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_136
       rect:
         serializedVersion: 2
         x: 256
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3516,20 +3411,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1adee82aad56df60800000000000000
-      internalID: 8058731568638646814
+      spriteID: 61142736529bd10f0800000000000000
+      internalID: -1144555160048877290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_138
+      name: items1_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c138b475bf5e40800000000000000
+      internalID: 5647431970656994082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_138
       rect:
         serializedVersion: 2
         x: 320
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3537,20 +3453,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1975e8d75ea8cd80800000000000000
-      internalID: -8230136626695276257
+      spriteID: eeccfd56fce728f60800000000000000
+      internalID: 8035124114414882030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_139
+      name: items1_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b47d973e3c45ba80800000000000000
+      internalID: -8451765295586118476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_140
       rect:
         serializedVersion: 2
         x: 384
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3558,20 +3495,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d2f878232ddcd420800000000000000
-      internalID: 2656241023314359000
+      spriteID: f86871cf5fda921e0800000000000000
+      internalID: -2222053669122636145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_140
+      name: items1_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19c9a7cc2bb398f0800000000000000
+      internalID: -534878129724208865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_142
       rect:
         serializedVersion: 2
         x: 448
-        y: 192
-        width: 64
-        height: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3579,20 +3537,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68159ed5aecd2c600800000000000000
-      internalID: 487194608865464710
+      spriteID: a207974a602e8f940800000000000000
+      internalID: 5330258677150085162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_141
+      name: items1_143
       rect:
         serializedVersion: 2
-        x: 512
-        y: 192
-        width: 64
-        height: 64
+        x: 480
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3600,104 +3558,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08cf693820c023760800000000000000
-      internalID: 7436019139679288448
+      spriteID: 6aa54642815d4b9a0800000000000000
+      internalID: -6218110885825324378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_142
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5da7d7239ec2fb120800000000000000
-      internalID: 2431711703889443541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_143
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5d38d15428178b90800000000000000
-      internalID: -7239791331703767715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_144
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f413f1b02ae2601d0800000000000000
-      internalID: -3384966796416175793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_145
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92321b5ae8ee36640800000000000000
-      internalID: 5072159901781926697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_146
+      name: items1_144
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 64
-        height: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3705,20 +3579,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f5e3ffc5f2c94310800000000000000
-      internalID: 1389856321032152563
+      spriteID: ffb1123dbd6b0a6d0800000000000000
+      internalID: -2981181898063012865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_147
+      name: items1_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e86d3190b968d0800000000000000
+      internalID: -2852554751115466930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_146
       rect:
         serializedVersion: 2
         x: 64
-        y: 128
-        width: 64
-        height: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3726,20 +3621,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7684036f438967b0800000000000000
-      internalID: -5230505115227224451
+      spriteID: c2aae4570bef933f0800000000000000
+      internalID: -920424614984766932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_148
+      name: items1_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dae0dd45ea30de0800000000000000
+      internalID: -1368058182281286375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items1_148
       rect:
         serializedVersion: 2
         x: 128
-        y: 128
-        width: 64
-        height: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3747,20 +3663,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07ac2c409a10d5010800000000000000
-      internalID: 1179100502881913456
+      spriteID: 0aa24d7eed9c21180800000000000000
+      internalID: -9146025934026691936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: armor_149
+      name: items1_149
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
+        x: 160
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3768,596 +3684,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a07ea710308e4ea0800000000000000
-      internalID: -5886626718882565984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_150
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 849ea58a0ed4d32f0800000000000000
-      internalID: -991550715659097784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_151
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e120d1a65be9bfe00800000000000000
-      internalID: 1079631037691920926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_152
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b2154d9af84dac90800000000000000
-      internalID: -7156983991604276552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_153
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7bd91df18b4c3760800000000000000
-      internalID: 7438903706178411387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_154
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dae43b6903fb3cc40800000000000000
-      internalID: 5531474982748769965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_155
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1de4e5247820ca340800000000000000
-      internalID: 4876275276492721873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_156
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: baedc945b44f1afd0800000000000000
-      internalID: -2332314527621914965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_157
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c120a512dd7edd2f0800000000000000
-      internalID: -946345409744600548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_158
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af1cd5bcfc4f47690800000000000000
-      internalID: -7605184697414598150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_159
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3a2bf60da8926d10800000000000000
-      internalID: 2117422643731442239
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_160
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 958102f32f5cf8370800000000000000
-      internalID: 8327091880263161945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_161
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e34f08bc8d4732530800000000000000
-      internalID: 3829032582671037502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_162
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 837c4fe1261017af0800000000000000
-      internalID: -400537370921482440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_163
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89ebcad69134b4df0800000000000000
-      internalID: -194988382367203688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_164
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d993918845a214ef0800000000000000
-      internalID: -125772772040689251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_165
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 830e41df9e34af940800000000000000
-      internalID: 5330647781198848056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_166
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a76968277d6f5a80800000000000000
-      internalID: -8475935615141451867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_167
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3edeb235d71972c00800000000000000
-      internalID: 875828619999178211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_168
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0003c54cfb8938120800000000000000
-      internalID: 2414941774601269248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_169
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a77aa5ff8c91ec50800000000000000
-      internalID: 6692802663365113768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_170
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25d09277d1c47ea90800000000000000
-      internalID: -7284770182811546286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_171
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99e4aaa4497b302f0800000000000000
-      internalID: -1007760044065141095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_172
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93fb4761955b58ee0800000000000000
-      internalID: -1259401126546718919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_173
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c9b38ee885c68ba0800000000000000
-      internalID: -6086960654436812352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_174
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97d1e16e098c68d20800000000000000
-      internalID: 3280529903247564153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_175
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be6e97c4709771a00800000000000000
-      internalID: 727182937098413803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_176
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3b9a7f3998414300800000000000000
-      internalID: 234548478632172346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: armor_177
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfcb5e4e3615e03b0800000000000000
-      internalID: -5544404601762628356
+      spriteID: f1d6a34031771f560800000000000000
+      internalID: 7345783390777011487
       vertices: []
       indices: 
       edges: []

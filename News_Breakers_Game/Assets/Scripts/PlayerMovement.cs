@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public LayerMask groundObjects;
     public int maxJumpCount;
+    
     public Animator hero;
     
     private Rigidbody2D rb;
@@ -53,6 +54,7 @@ public class PlayerMovement : MonoBehaviour
         //Animate
         //Animate();
         hero.SetFloat("Walk",Input.GetAxis("Horizontal"));
+        
     }
 
     private void Move()
@@ -91,5 +93,18 @@ public class PlayerMovement : MonoBehaviour
     {
         facingRight = !facingRight; //Inverse
         transform.Rotate(0f, 180f, 0f);
+    }
+    
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.transform.tag == "Armor") {
+            if (Input.GetKeyDown("space") )  {
+                Destroy(other.gameObject);
+                hero.SetBool("Armored", true);
+            }
+        }
+        if (other.transform.tag == "Death") {
+            Application.LoadLevel(Application.loadedLevel);
+        }
     }
 }
