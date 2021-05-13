@@ -2,7 +2,6 @@ trackSelection = true
 fetchPreview = true
 wantsMore = false
 keepOpen = false
-itemIconSize = 1
 queryFolder = "Assets"
 onBoardingDoNotAskAgain = true
 showPackageIndexes = false
@@ -17,6 +16,9 @@ scopes = {
 	"m_SideBarSplitter.785D90A9" = "180"
 	"m_DetailsPanelSplitter.785D90A9" = "700"
 	"currentGroup.785D90A9" = "all"
+	"last_search.7F95D817" = "menu"
+	"InspectorPreview.7F95D817" = "0"
+	"currentGroup.7F95D817" = "asset"
 }
 providers = {
 	asset = {
@@ -56,5 +58,9 @@ providers = {
 	}
 }
 recentSearches = [
+	"menu"
+]
+searchItemFavorites = [
 ]
 savedSearchesSortOrder = 0
+showSavedSearchPanel = false
