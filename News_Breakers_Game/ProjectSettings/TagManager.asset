@@ -8,6 +8,7 @@ TagManager:
   - Armor
   - Death
   - Door
+  - NoWalk
   layers:
   - Default
   - TransparentFX

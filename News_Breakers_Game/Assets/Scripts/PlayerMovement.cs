@@ -35,14 +35,17 @@ public class PlayerMovement : MonoBehaviour
     //Better for handling physics
     void FixedUpdate()
     {
+        
         //Check if grounded
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundObjects);
         if (isGrounded)
         {
             jumpCount = maxJumpCount;
         }
+        
         //Move
         Move();
+        
     }
 
     // Update is called once per frame
@@ -53,6 +56,8 @@ public class PlayerMovement : MonoBehaviour
 
         //Animate
         //Animate();
+        
+        //Tells charcater animation to walk left, right, or idle
         hero.SetFloat("Walk",Input.GetAxis("Horizontal"));
         
     }
@@ -60,7 +65,8 @@ public class PlayerMovement : MonoBehaviour
     private void Move()
     {
         rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
-        if(isJumping)
+        
+        if (isJumping)
         {
             rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
             jumpCount--;
@@ -86,6 +92,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && jumpCount > 0)
         {
             isJumping = true;
+            jumpCount--;
         }
     }
 
@@ -102,9 +109,6 @@ public class PlayerMovement : MonoBehaviour
                 Destroy(other.gameObject);
                 hero.SetBool("Armored", true);
             }
-        }
-        if (other.transform.tag == "Death") {
-            Application.LoadLevel(Application.loadedLevel);
         }
     }
 }

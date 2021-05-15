@@ -11,7 +11,15 @@ public class Health : MonoBehaviour
     public Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart;
-
+    
+    public GameObject player;
+    
+    private Vector3 startPos;
+    
+    void Awake() {
+        startPos = player.transform.position;
+    }
+    
     void Update() {
 
         if (health > numOfHearts) {
@@ -35,6 +43,15 @@ public class Health : MonoBehaviour
             else {
                 hearts[i].enabled = false;
             }
+        }
+    }
+    
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.transform.tag == "Death") {
+            numOfHearts--;
+            //Application.LoadLevel(Application.loadedLevel);
+            player.transform.position = startPos;
         }
     }
 }

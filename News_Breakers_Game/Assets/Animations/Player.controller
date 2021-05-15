@@ -204,28 +204,28 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -419670004278826088}
-    m_Position: {x: 3890, y: 1550, z: 0}
+    m_Position: {x: 4740, y: 1480, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3140936782861401821}
-    m_Position: {x: 4400, y: 1450, z: 0}
+    m_Position: {x: 5260, y: 1430, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8226271735041112754}
-    m_Position: {x: 4400, y: 1340, z: 0}
+    m_Position: {x: 5260, y: 1380, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4393249762721882749}
-    m_Position: {x: 4420, y: 1570, z: 0}
+    m_Position: {x: 5260, y: 1480, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -7265985495637081815}
-    m_Position: {x: 4050, y: 1690, z: 0}
+    m_Position: {x: 4900, y: 1620, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6829254099423682020}
-    m_Position: {x: 4420, y: 1690, z: 0}
+    m_Position: {x: 5260, y: 1530, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2749492457293057518}
-    m_Position: {x: 4455, y: 1755, z: 0}
+    m_Position: {x: 5270, y: 1750, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7874400302221885661}
-    m_Position: {x: 4010, y: 1380, z: 0}
+    m_Position: {x: 4860, y: 1310, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -6313267791638923636}
@@ -237,9 +237,9 @@ AnimatorStateMachine:
   - {fileID: 5685078333922015967}
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 4180, y: 1530, z: 0}
-  m_EntryPosition: {x: 3770, y: 1640, z: 0}
-  m_ExitPosition: {x: 4710, y: 1520, z: 0}
+  m_AnyStatePosition: {x: 5030, y: 1460, z: 0}
+  m_EntryPosition: {x: 4620, y: 1570, z: 0}
+  m_ExitPosition: {x: 5560, y: 1450, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -419670004278826088}
 --- !u!1102 &-2749492457293057518
@@ -309,19 +309,19 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Armored
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Attack
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Player
