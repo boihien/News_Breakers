@@ -12,6 +12,7 @@ TagManager:
   - Trap
   - Enemy
   - Score
+  - Lift
   layers:
   - Default
   - TransparentFX
