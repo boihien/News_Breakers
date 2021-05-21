@@ -10,6 +10,8 @@ TagManager:
   - Door
   - NoWalk
   - Trap
+  - Enemy
+  - Score
   layers:
   - Default
   - TransparentFX

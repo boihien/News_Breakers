@@ -66,5 +66,10 @@ public class Health : MonoBehaviour
             numOfHearts--;
             StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
         }
+        if (other.transform.tag == "Enemy") {
+            numOfHearts--;
+        }
     }
+
+
 }

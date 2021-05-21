@@ -18,4 +18,16 @@ public class EnemyMovement : MonoBehaviour
 
         yield return 0;
     }*/
+    public float speed;
+
+    private Transform target;
+
+
+    void Start() {
+        target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+    }
+
+    void Update() {
+        transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+    }
 }
