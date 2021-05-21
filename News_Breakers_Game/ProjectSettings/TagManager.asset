@@ -13,6 +13,7 @@ TagManager:
   - Enemy
   - Score
   - Lift
+  - Heli
   layers:
   - Default
   - TransparentFX
