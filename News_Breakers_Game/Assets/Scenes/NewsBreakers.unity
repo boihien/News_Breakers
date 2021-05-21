@@ -2662,7 +2662,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 159.49475
+  orthographic size: 200
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -4371,7 +4371,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   data:
-    dataString: UEsDBBQAAAgIAACAn+vcjwqObAIAABEFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVMmS2jAQ/RVK50B5ZcktAYbJYZYakpqLL8JqYxWyREnyADPFv6cl29ghJ8R7vbx+avmLcGmOkFulN5qzJ8WAfB8RdybfRj35CGe6V3LLP6GLeefMli6I+pg3arlCPHRpRlVgNc9/yL1wwQGCteSF0tWa7WGpjDUIF1QYQEor67IlQl8jcsaf8cKlXPAUzdzpE0+LYHTFYw7Sgu5DozCZTpJ5Ok/ajGkUTxZxkLRp43CSLuZpFEzD9TiY+hq1zAWtjsDcQH2pWRJ2NeLYB0octo1xVK6E4KZVSuzl6J14oxfnA+MUp/bSwkmMQAl8X1oncZj6UhQGbGuKppcV12hfU5P8VI2nFTWHRtcHFbXrEqWN9Kbo03/8OPR0oVX12PUNA9fDljw/oMacGjswfQivBtK9PScqDnQn4L0E+aw2WtWSIWl17VJrA9Gq/3sbbVlCfujxRuodWB97v7s7Dm5XNbpe/fTnpeDVzlGTpAG2Qnm3/WKAxnv5hYL92pi2BKJOxR8Dv+l+uF8t8cC1sUi1U0onb6dq7ULJ2nvmpqntUmkJHm5FH0FSYS+vWMbeX+EdN2h7xzxQ95La5i3XPZC7FA/38UFwR72q0+2yTKlOT2DKl9oKLqEX7Yhn9GmppGw2bOhJl7atdUHzQdq+5uzf1SLz3SyKZgnQFMIFpDBmMdsBjQM2TRdBlOTE7x6XOCcVr43Q1h68NdkXl7hn3QdmtNH06LedaXra8M9KDQVyWahtrgHkS1Piphw0dsFHydaMo0NbsJZLf+HkKyNC5Qdg2a1n5kddn62mWV8lI0f+oaxDMrL0n5SMXMn1L1BLAwQUAAAICAAAgJ/rJ3BEcG0AAAB4AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9IzNNVRUEovSizIKAaKGII4pZkpIHa0kkWSuZGRuUlqommqoWWqaapuinFKUmqisUGKmamlgZFJslIsUH1JZUGqX2JuKkRPQGJJRlpmXkpmXrqee1FmijvIaKXYWgBQSwECLQAUAAAICAAAgJ/r3I8KjmwCAAARBQAACwAkAAAAAAAAAAAAAAAAAAAAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwECLQAUAAAICAAAgJ/rJ3BEcG0AAAB4AAAACQAkAAAAAAAAAAAAAAC5AgAAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsFBgAAAAACAAIAuAAAAHEDAAAAAA==
+    dataString: UEsDBBQAAAgIAACAn+tvAzmxZAIAAAgFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQF1VE1z2jAQ/SuMzoWxjYHQWwuE9JCECenk4ouw1liDLHkkOXxk+O9dyTZ26fSE2Ldv9d7uyl+ES1NCapVea86eFQPyfUDcmXwbdOATnOheyS2/QJvzwZnNXRL1OW/UcoXx0NGMKsBqnv6Qe+GSAwxWkmdKFyu2h4Uy1mA4o8IAQlpZx5YY+hqQE/4M545yxlM0c6cLnubB4IrHFKQF3aVGYTwdxQ+Th7hhTKPxaD4O4oZWsyqZClqUwJyFjjyLw5Y1HvtEifaaHAelSghuGm3EnkvvfVvmoMGZZ5yiVa9nOgpnGMmB73PrhPXpr1lmwDat0PS85BqbVtclP1XdyYKaQ63tk4rK3RRNpl5VXfT5H3wYejjTqnhq7w0Dd4fNeXp4o+eUGttrdT+87LSHvkVHKg50J+AjB/mi1lpVkiFodeWolYFo2f29WVvkkB66eC31LliVXc/bybZzdR6u3v1pIXixc9AorgNboXzH/TqAxtn8QsF+WUxTAqNOxW8D73Tf36oGeOTaWIQal9LJ26lKu1Sy8j1zbiq7UFqC7lcoQVJhzxusY+9neIf9n/VI3QNqbm+w9l3cUXy4yw+CO2ijjrdpmVwdn8Hkr5UVXELXage8YKMWSsp6xfqWWtq20hlNe7R9xdnfu0UedrMomsVAJxDOYQJDNmY7oOOATSfzIIpT4pePS/RJxaYW2rQHxya74hIXrf2uDNaaln7dmabHNb8Uqi+Qy0xtUw0gX+sSN+Wg8RZ8mWzFOHZoC9Zy6SdOvhIiVHoAltzuTLzV1clqmnRVElLyT2VdJCEL/yVJyJVc/wBQSwMEFAAACAgAAICf6ydwRHBtAAAAeAAAAAkAJABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQGrVipLLSrOzM9TslIw0TPSMzTVUVBKL0osyCgGihiCOKWZKSB2tJJFkrmRkblJaqJpqqFlqmmqbopxSlJqorFBipmppYGRSbJSLFB9SWVBql9ibipET0BiSUZaZl5KZl66nntRZoo7yGil2FoAUEsBAi0AFAAACAgAAICf628DObFkAgAACAUAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAICf6ydwRHBtAAAAeAAAAAkAJAAAAAAAAAAAAAAAsQIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAABpAwAAAAA=
     upgradeData: 
     file_cachedStartup: {fileID: 0}
     data_cachedStartup: 
@@ -4384,7 +4384,7 @@ MonoBehaviour:
   manualDebugFloorRoof: 0
   showSearchTree: 0
   unwalkableNodeDebugSize: 0.3
-  logPathResults: 1
+  logPathResults: 0
   maxNearestNodeDistance: 100
   scanOnStartup: 1
   fullGetNearestSearch: 0
@@ -10647,8 +10647,9 @@ GameObject:
   - component: {fileID: 2029507943}
   - component: {fileID: 2029507942}
   - component: {fileID: 2029507946}
+  - component: {fileID: 2029507947}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Boss
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10681,7 +10682,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 2
-  radius: 48.29
+  radius: 63.87
   height: 0.01
   repathRate: 0.5
   canSearch: 1
@@ -10763,6 +10764,27 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 48.3
+--- !u!50 &2029507947
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2029507941}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &2035162479
 GameObject:
   m_ObjectHideFlags: 0

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
@@ -31,6 +32,10 @@ public class Health : MonoBehaviour
         if (health > numOfHearts) {
             health = numOfHearts;
         }
+        
+        if (health <= 0f) {
+            SceneManager.LoadScene(0);
+        }
 
         for (int i = 0; i < hearts.Length; i++) {
             if (i < health)
@@ -51,14 +56,6 @@ public class Health : MonoBehaviour
             }
         }
     }
-    
-    private void OnTriggerStay2D(Collider2D other)
-    {
-        if (other.transform.tag == "Death") {
-            numOfHearts--;
-            player.transform.position = startPos;
-        }
-    }
 
     void OnTriggerEnter2D(Collider2D other) {
         if (other.transform.tag == "Trap") {
@@ -66,8 +63,14 @@ public class Health : MonoBehaviour
             //StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
             player.transform.position = startPos;
         }
+        
         if (other.transform.tag == "Enemy") {
             numOfHearts--;
+        }
+        
+        if (other.transform.tag == "Death") {
+            numOfHearts--;
+            player.transform.position = startPos;
         }
     }
 
