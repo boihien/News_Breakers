@@ -167,7 +167,7 @@ GameObject:
   - component: {fileID: 74594771}
   - component: {fileID: 74594770}
   - component: {fileID: 74594767}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: News Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,8 +447,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 81405873}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1234.6, y: 641, z: 0}
-  m_LocalScale: {x: 24.773695, y: 22.321995, z: 1}
+  m_LocalPosition: {x: 1241.6272, y: 647.3318, z: 0}
+  m_LocalScale: {x: 38.827812, y: 34.98526, z: 1.5673}
   m_Children: []
   m_Father: {fileID: 206758760}
   m_RootOrder: 1
@@ -6399,7 +6399,7 @@ Transform:
   m_GameObject: {fileID: 1246044100}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 1714.8, y: 325.6, z: 0}
-  m_LocalScale: {x: 24.773695, y: 22.321995, z: 1}
+  m_LocalScale: {x: 38.82781, y: 34.98526, z: 1}
   m_Children: []
   m_Father: {fileID: 206758760}
   m_RootOrder: 2
@@ -7649,7 +7649,7 @@ MonoBehaviour:
     m_Bits: 512
   attackRange: 8.43
   attackDamage: 10
-  attackRate: 2
+  attackRate: 0
 --- !u!1 &1509551236
 GameObject:
   m_ObjectHideFlags: 0
@@ -11012,7 +11012,7 @@ Transform:
   m_GameObject: {fileID: 2040413265}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2017, y: 325.6, z: 0}
-  m_LocalScale: {x: 24.773695, y: 22.321995, z: 1}
+  m_LocalScale: {x: 38.82781, y: 34.98526, z: 1}
   m_Children: []
   m_Father: {fileID: 206758760}
   m_RootOrder: 3

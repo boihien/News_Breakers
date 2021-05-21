@@ -4747,7 +4747,7 @@ MonoBehaviour:
     m_Bits: 512
   attackRange: 8.43
   attackDamage: 10
-  attackRate: 2
+  attackRate: 0
 --- !u!95 &1913326489
 Animator:
   serializedVersion: 3
