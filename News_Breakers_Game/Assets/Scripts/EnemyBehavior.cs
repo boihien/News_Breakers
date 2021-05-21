@@ -8,10 +8,12 @@ public class EnemyBehavior : MonoBehaviour
     public float MaxHitpoints = 100;
     public HealthBarBehavior Healthbar;
     public EnemyBehavior enemy;
+    public ScoreScript score;
 
     // Start is called before the first frame update
     void Start()
     {
+        score = GameObject.FindGameObjectWithTag("Score").GetComponent<ScoreScript>();
         Hitpoints = MaxHitpoints;
         //Healthbar.SetHealth(Hitpoints, MaxHitpoints);
     }
@@ -23,13 +25,13 @@ public class EnemyBehavior : MonoBehaviour
 
         if (Hitpoints <= 0) {
             Destroy(gameObject);
+            score.scoreValue++;
         }
     }
 
     void Destroy()
     {
         //Die animation
-
         Debug.Log("Enemy died!");
     }
 }
