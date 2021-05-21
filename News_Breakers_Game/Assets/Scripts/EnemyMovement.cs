@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+    /*public IEnumerator Knockback(float knockDur, float knockbackPwr, Vector3 knockbackDir)
     {
-        
-    }
+        float timer = 0;
+
+        while (knockDur > timer)
+        {
+            timer += Time.deltaTime;
+
+            rb.AddForce(new Vector3(knockbackDir.x * -20, knockbackDir.x * knockbackPwr, transform.position.z));
+        }
+
+        yield return 0;
+    }*/
 }
