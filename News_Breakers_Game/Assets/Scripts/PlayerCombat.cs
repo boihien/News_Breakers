@@ -12,23 +12,19 @@ public class PlayerCombat : MonoBehaviour
 
     public float attackRange = 0.5f;
     public int attackDamage = 10;
-    public float attackRate = 2f;
+    public float attackRate = 1;
     float nextAttackTime = 0f;
 
     // Update is called once per frame
     void Update()
     {
-        /*if(Time.time >= nextAttackTime)//attack cooldown
+                if (Time.time > nextAttackTime) //attack cooldown
         {
             if (Input.GetKeyDown(KeyCode.M))
             {
                 Attack();
-                nextAttackTime = Time.time + 1f / attackRate;//attack cooldown
+                nextAttackTime = Time.time + attackRate; //attack cooldown
             }
-        }*/
-        if (Input.GetKeyDown(KeyCode.M))
-        {
-            Attack();
         }
     }
 

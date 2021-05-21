@@ -56,7 +56,6 @@ public class Health : MonoBehaviour
     {
         if (other.transform.tag == "Death") {
             numOfHearts--;
-            //Application.LoadLevel(Application.loadedLevel);
             player.transform.position = startPos;
         }
     }
@@ -64,7 +63,8 @@ public class Health : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other) {
         if (other.transform.tag == "Trap") {
             numOfHearts--;
-            StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
+            //StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
+            player.transform.position = startPos;
         }
     }
 }

@@ -7,6 +7,6 @@ public class toMenu : MonoBehaviour
 {
     public void mainMenu(int index)
     {
-        Application.LoadLevel(0);
+        SceneManager.LoadScene(0);
     }
 }

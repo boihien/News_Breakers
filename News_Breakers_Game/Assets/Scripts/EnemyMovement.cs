@@ -5,6 +5,25 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
 
+    /*
+    public void Start()
+    {
+    startPos = transform.position;
+    roamPos = getRoamPos():
+    }
+    
+    public void Update()
+    {
+    
+    
+    }
+    
+    priavte Vector3 getRoamPos() {
+    
+    return startPos + new Vector3(UnityEngine.Random.Range(-1f,1f), UnityEngine.Random.Range(-1f,1f), 0f).normalized * Random.Range(10f,70f,0f);
+    }
+    */
+    
     /*public IEnumerator Knockback(float knockDur, float knockbackPwr, Vector3 knockbackDir)
     {
         float timer = 0;
@@ -19,3 +38,4 @@ public class EnemyMovement : MonoBehaviour
         yield return 0;
     }*/
 }
+
