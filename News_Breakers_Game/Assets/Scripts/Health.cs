@@ -13,10 +13,16 @@ public class Health : MonoBehaviour
     public Sprite emptyHeart;
     
     public GameObject player;
+    public PlayerMovement test;
     
     private Vector3 startPos;
+
+    void Start() {
+        test = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
+    }
     
     void Awake() {
+
         startPos = player.transform.position;
     }
     
@@ -52,6 +58,13 @@ public class Health : MonoBehaviour
             numOfHearts--;
             //Application.LoadLevel(Application.loadedLevel);
             player.transform.position = startPos;
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D other) {
+        if (other.transform.tag == "Trap") {
+            numOfHearts--;
+            StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
         }
     }
 }

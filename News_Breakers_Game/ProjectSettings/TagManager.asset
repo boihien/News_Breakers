@@ -9,6 +9,7 @@ TagManager:
   - Death
   - Door
   - NoWalk
+  - Trap
   layers:
   - Default
   - TransparentFX
