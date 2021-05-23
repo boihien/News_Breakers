@@ -1715,7 +1715,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 301285116}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: 1-Middleground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6064,7 +6064,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1217578571}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Bedroom Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7257,7 +7257,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1437566018}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Path Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
