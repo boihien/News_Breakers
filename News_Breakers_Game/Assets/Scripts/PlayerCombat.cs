@@ -12,27 +12,19 @@ public class PlayerCombat : MonoBehaviour
 
     public float attackRange = 0.5f;
     public int attackDamage = 10;
-    public float attackRate = 20f;
+    public float attackRate = 1f;
     float nextAttackTime = 0f;
 
     // Update is called once per frame
     void Update()
     {
-        /*if (Time.time > nextAttackTime) //attack cooldown
+        if (Time.time > nextAttackTime) //attack cooldown
         {
             if (Input.GetKeyDown(KeyCode.M))
             {
                 Attack();
-                //nextAttackTime = Time.time + attackRate; //attack cooldown
-                StartCoroutine(TimerRoutine());
+                nextAttackTime = Time.time + attackRate; //attack cooldown
             }
-        }*/
-        
-        if (Input.GetKeyDown(KeyCode.M))
-        {
-            Attack();
-            //nextAttackTime = Time.time + attackRate; //attack cooldown
-            StartCoroutine(TimerRoutine());
         }
     }
 
@@ -47,7 +39,7 @@ public class PlayerCombat : MonoBehaviour
         //Damage them
         foreach(Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<EnemyBehavior>().TakeHit(attackDamage);
+            enemy.GetComponent<shootAI>().TakeDamage(attackDamage);
         }
     }
 
@@ -61,12 +53,4 @@ public class PlayerCombat : MonoBehaviour
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
     
-    private IEnumerator TimerRoutine()
-    {
-      //code can be executed anywhere here before this next statement
-      yield return new WaitForSeconds(10); //code pauses for 5 seconds
-     //code resumes after the 5 seconds and exits if there is nothing else to run
- 
-    }
-
 }

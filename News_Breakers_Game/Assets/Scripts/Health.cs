@@ -13,12 +13,23 @@ public class Health : MonoBehaviour
     public Sprite fullHeart;
     public Sprite emptyHeart;
     
+    public Animator hero;
     public GameObject player;
     public PlayerMovement test;
     
+    public Slider healthBar;
+    public Color Low;
+    public Color High;
+    
     private Vector3 startPos;
-
+    private float enemyHit = 5f;
+    private float letterHit = 4f;
+    public float curHealth;
+    public float maxHealth = 20f;
+    
     void Start() {
+        curHealth = maxHealth;
+        healthBar.value = maxHealth;
         test = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
     }
     
@@ -28,9 +39,16 @@ public class Health : MonoBehaviour
     }
     
     void Update() {
-
+        SetHealth();
+        
         if (health > numOfHearts) {
             health = numOfHearts;
+        }
+        
+        if (curHealth == 0) {
+            numOfHearts--;
+            dead();
+            curHealth = maxHealth;
         }
         
         if (health <= 0f) {
@@ -56,23 +74,45 @@ public class Health : MonoBehaviour
             }
         }
     }
+    
+    public void SetHealth()
+    {
+        healthBar.value = curHealth/maxHealth;
+    }
 
     void OnTriggerEnter2D(Collider2D other) {
+    
         if (other.transform.tag == "Trap") {
-            numOfHearts--;
             //StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
-            player.transform.position = startPos;
+            dead();
         }
         
         if (other.transform.tag == "Enemy") {
-            numOfHearts--;
+            damaged();
+            curHealth -= enemyHit;
         }
         
-        if (other.transform.tag == "Death") {
-            numOfHearts--;
-            player.transform.position = startPos;
+        if (other.transform.tag == "Letter") {
+            damaged();
+            curHealth -= letterHit;
         }
     }
-
+    
+    void dead()
+    {
+        hero.SetTrigger("Hurt");
+        StartCoroutine(ExampleCoroutine());
+        player.transform.position = startPos;
+    }
+    
+    void damaged()
+    {
+        hero.SetTrigger("Damaged");
+    }
+    
+    IEnumerator ExampleCoroutine()
+    {
+        yield return new WaitForSeconds(2);
+    }
 
 }

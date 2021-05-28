@@ -7,19 +7,26 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce;
     public float moveSpeed;
     public float checkRadius;
+    
     public Transform ceilingCheck;
     public Transform groundCheck;
+    
     public LayerMask groundObjects;
+    
     public int maxJumpCount;
+    private int jumpCount;
     
     public Animator hero;
+    
+    public AudioSource pickedUp;
+    public AudioSource jumpSound;
     
     private Rigidbody2D rb;
     private bool facingRight = true;
     private float moveDirection;
     private bool isGrounded;
     private bool isJumping = false;
-    private int jumpCount;
+    
     
     //Awake is called after all objects are initialized. Called in random
     private void Awake()
@@ -59,15 +66,14 @@ public class PlayerMovement : MonoBehaviour
         
         //Tells charcater animation to walk left, right, or idle
         hero.SetFloat("Walk",Input.GetAxis("Horizontal"));
-        
     }
-
     private void Move()
     {
         rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
         
         if (isJumping)
         {
+            jumpSound.Play(0);
             rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
             jumpCount--;
         }
@@ -78,10 +84,12 @@ public class PlayerMovement : MonoBehaviour
     {
         if (moveDirection > 0 && !facingRight)
         {
+            hero.SetInteger("Dir", 1);
             FlipCharacter();
         }
         else if (moveDirection < 0 && facingRight)
         {
+            hero.SetInteger("Dir", 0);
             FlipCharacter();
         }
     }
@@ -108,6 +116,7 @@ public class PlayerMovement : MonoBehaviour
             if (Input.GetKeyDown("space") )  {
                 Destroy(other.gameObject);
                 hero.SetBool("Armored", true);
+                pickedUp.Play(0);
             }
         }
     }

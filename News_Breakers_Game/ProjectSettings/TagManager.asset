@@ -14,6 +14,7 @@ TagManager:
   - Score
   - Lift
   - Heli
+  - Letter
   layers:
   - Default
   - TransparentFX

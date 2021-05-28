@@ -7,28 +7,23 @@ public class Bounce : MonoBehaviour
     public float height;
     public float maxHigh;
     public float maxLow;
-    public bool up;
-    public bool down;
-    public float xcoord;
+    private bool dir;
+    public float bounceSpeed;
     
     // Update is called once per frame
     void Start()
     {
         height = transform.position.y;
-        xcoord = transform.position.x;
         maxHigh = height + 10f;
         maxLow = height - 10f;
-        up = true;
-        down = false;
+        dir = true; //true = up, false = down
     }
     void Update()
     {
-        if (height == maxHigh) {
-            down = true;
-            up = false;
-        } else if (height == maxLow) {
-            down = false;
-            up = true;
+        if (height >= maxHigh) {
+            dir = false;
+        } else if (height <= maxLow) {
+            dir = true;
         }
         
         Animate();
@@ -36,12 +31,12 @@ public class Bounce : MonoBehaviour
     
     private void Animate()
     {
-        if (up) {
-            height += .5f;
-        } else if (down) {
-            height -= .5f;
+        if (dir) {
+            height += bounceSpeed * Time.deltaTime;
+        } else {
+            height -= bounceSpeed * Time.deltaTime;
         }
         
-        transform.position = new Vector3(xcoord,height,0f);
+        transform.position = new Vector3(transform.position.x,height,0f);
     }
 }
