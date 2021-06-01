@@ -10,10 +10,14 @@ public class PlayerCombat : MonoBehaviour
     public Transform attackPoint;
     public LayerMask enemyLayers;
 
+    public ScoreScript playerScore;
+    
     public float attackRange = 0.5f;
     public int attackDamage = 10;
     public float attackRate = 1f;
     float nextAttackTime = 0f;
+    
+    public float score = 0f;
 
     // Update is called once per frame
     void Update()
@@ -34,13 +38,19 @@ public class PlayerCombat : MonoBehaviour
         animator.SetTrigger("Attack");
 
         //Detect enemies in range of attack
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers); //creates circle with radius and collects all objects that the circle hits
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange); //creates circle with radius and collects all objects that the circle hits
         
         //Damage them
         foreach(Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<shootAI>().TakeDamage(attackDamage);
+            if (enemy.gameObject.tag == "Enemy") {
+                enemy.GetComponent<EnemyMovement>().TakeDamage(attackDamage);
+                playerScore.scoreValue += 500;
+            } else if (enemy.gameObject.tag == "Boss") {
+                enemy.GetComponent<shootAI>().TakeDamage(attackDamage);
+            }
         }
+        
     }
 
     //DELETE AFTER FINAL PROJECT IS DONE

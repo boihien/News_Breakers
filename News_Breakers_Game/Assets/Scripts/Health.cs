@@ -13,6 +13,7 @@ public class Health : MonoBehaviour
     public Sprite fullHeart;
     public Sprite emptyHeart;
     
+    public AudioSource deathSound;
     public Animator hero;
     public GameObject player;
     public PlayerMovement test;
@@ -28,13 +29,13 @@ public class Health : MonoBehaviour
     public float maxHealth = 20f;
     
     void Start() {
+    
         curHealth = maxHealth;
         healthBar.value = maxHealth;
         test = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
     }
     
     void Awake() {
-
         startPos = player.transform.position;
     }
     
@@ -45,7 +46,7 @@ public class Health : MonoBehaviour
             health = numOfHearts;
         }
         
-        if (curHealth == 0) {
+        if (curHealth <= 0) {
             numOfHearts--;
             dead();
             curHealth = maxHealth;
@@ -83,12 +84,12 @@ public class Health : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other) {
     
         if (other.transform.tag == "Trap") {
-            //StartCoroutine(test.Knockback(0.01f, 250, player.transform.position));
             dead();
         }
         
         if (other.transform.tag == "Enemy") {
             damaged();
+            StartCoroutine(test.Knockback(0.001f, 10, player.transform.position));
             curHealth -= enemyHit;
         }
         
@@ -101,8 +102,9 @@ public class Health : MonoBehaviour
     void dead()
     {
         hero.SetTrigger("Hurt");
-        StartCoroutine(ExampleCoroutine());
-        player.transform.position = startPos;
+        numOfHearts--;
+        deathSound.Play(0);
+        StartCoroutine(WaitToDie());
     }
     
     void damaged()
@@ -110,9 +112,11 @@ public class Health : MonoBehaviour
         hero.SetTrigger("Damaged");
     }
     
-    IEnumerator ExampleCoroutine()
+    IEnumerator WaitToDie()
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(1);
+        player.transform.position = startPos;
+        curHealth = maxHealth;
     }
 
 }

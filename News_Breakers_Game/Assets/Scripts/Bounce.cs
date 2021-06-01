@@ -8,11 +8,12 @@ public class Bounce : MonoBehaviour
     public float maxHigh;
     public float maxLow;
     private bool dir;
-    public float bounceSpeed;
+    private float bounceSpeed;
     
     // Update is called once per frame
     void Start()
     {
+        bounceSpeed = 30f;
         height = transform.position.y;
         maxHigh = height + 10f;
         maxLow = height - 10f;

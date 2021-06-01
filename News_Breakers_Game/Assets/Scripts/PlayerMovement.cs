@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     public AudioSource jumpSound;
     
     private Rigidbody2D rb;
-    private bool facingRight = true;
+    public bool facingRight = true;
     private float moveDirection;
     private bool isGrounded;
     private bool isJumping = false;
@@ -84,12 +84,10 @@ public class PlayerMovement : MonoBehaviour
     {
         if (moveDirection > 0 && !facingRight)
         {
-            hero.SetInteger("Dir", 1);
             FlipCharacter();
         }
         else if (moveDirection < 0 && facingRight)
         {
-            hero.SetInteger("Dir", 0);
             FlipCharacter();
         }
     }
@@ -114,9 +112,9 @@ public class PlayerMovement : MonoBehaviour
     {
         if (other.transform.tag == "Armor") {
             if (Input.GetKeyDown("space") )  {
+                pickedUp.Play(0);
                 Destroy(other.gameObject);
                 hero.SetBool("Armored", true);
-                pickedUp.Play(0);
             }
         }
     }
@@ -127,7 +125,7 @@ public class PlayerMovement : MonoBehaviour
         while (knockDur > timer) {
             timer += Time.deltaTime;
 
-            rb.AddForce(new Vector3(knockbackDir.x * -100, knockbackDir.y * knockbackPwr, transform.position.z));
+            rb.AddForce(new Vector3(knockbackDir.x * -100f, knockbackDir.y * knockbackPwr, transform.position.z));
         }
 
         yield return 0;

@@ -49,5 +49,10 @@ public class EnemyMovement : MonoBehaviour
     void Update() {
         transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
     }
+    
+    public void TakeDamage(int damage)
+    {
+        Destroy(gameObject);
+    }
 }
 

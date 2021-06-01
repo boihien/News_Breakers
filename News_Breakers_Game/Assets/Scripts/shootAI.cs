@@ -16,13 +16,15 @@ public class shootAI : MonoBehaviour
     public AudioSource shootSound;
     public AudioSource deathSound;
     
+    public ScoreScript playerScore;
+    
     public float fireRate; //Fire every 2.5 seconds
     public float shootingPower; //force of projection
  
     private float shootingTime;
     private int curLetter;
     
-    public float dist;
+    private float dist;
     public float maxDist;
     public int health;
     
@@ -36,6 +38,11 @@ public class shootAI : MonoBehaviour
         dist = Vector3.Distance(target.position, transform.position);
         if (dist < maxDist) {
             Fire(); //Constantly fire
+        }
+        
+        if (health <= 0)
+        {
+            Die();
         }
     }
  
@@ -60,24 +67,20 @@ public class shootAI : MonoBehaviour
     public void TakeDamage(int damage)
     {
         health -= damage;
- 
-        if (health <= 0)
-        {
-            deathSound.Play(0);
-            Die();
-        }
     }
  
     void Die()
     {
+        playerScore.scoreValue += 1000;
+        deathSound.Play(0);
         enemy.SetTrigger("Dead");
-        StartCoroutine(ExampleCoroutine());
-        Instantiate(armor, transform.position, Quaternion.identity);
-        Destroy(gameObject);
+        StartCoroutine(WaitToDie());
     }
     
-    IEnumerator ExampleCoroutine()
+    IEnumerator WaitToDie()
     {
         yield return new WaitForSeconds(1);
+        Instantiate(armor, transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 }

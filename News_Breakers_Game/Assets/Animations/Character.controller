@@ -65,7 +65,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AR R SWING
+  m_Name: AR SWING
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -151,9 +151,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: Attack
     m_EventTreshold: 0
-  - m_ConditionMode: 6
-    m_ConditionEvent: Dir
-    m_EventTreshold: 1
   - m_ConditionMode: 2
     m_ConditionEvent: Armored
     m_EventTreshold: 0
@@ -255,7 +252,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: R SWING
+  m_Name: SWING
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -459,14 +456,8 @@ AnimatorStateMachine:
     m_State: {fileID: -6818459749980371381}
     m_Position: {x: 800, y: 20, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: 5631827908701037923}
-    m_Position: {x: 800, y: 60, z: 0}
-  - serializedVersion: 1
     m_State: {fileID: -8636678473697285546}
     m_Position: {x: 800, y: 340, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 8353333837032665567}
-    m_Position: {x: 800, y: 300, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4754973871144133468}
     m_Position: {x: 800, y: 160, z: 0}
@@ -480,9 +471,7 @@ AnimatorStateMachine:
   - {fileID: -3167928347006279859}
   - {fileID: -1922604584462662052}
   - {fileID: -8392803229736867716}
-  - {fileID: -9166113303704223190}
   - {fileID: -2093528312942750673}
-  - {fileID: 5773305834730709615}
   - {fileID: -4789605749973899312}
   - {fileID: -4337517881150834775}
   m_EntryTransitions: []
@@ -557,9 +546,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: Armored
     m_EventTreshold: 0
-  - m_ConditionMode: 6
-    m_ConditionEvent: Dir
-    m_EventTreshold: 1
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8636678473697285546}
   m_Solo: 0
@@ -692,43 +678,37 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Armored
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: Attack
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: Hurt
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
+  - m_Name: Armored
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
   - m_Name: Damaged
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: Dir
-    m_Type: 3
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: Dead
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Player
@@ -864,7 +844,7 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: Armored
     m_EventTreshold: 0
-  - m_ConditionMode: 6
+  - m_ConditionMode: 1
     m_ConditionEvent: Dir
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}

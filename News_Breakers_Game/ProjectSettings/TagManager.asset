@@ -15,6 +15,7 @@ TagManager:
   - Lift
   - Heli
   - Letter
+  - Boss
   layers:
   - Default
   - TransparentFX
