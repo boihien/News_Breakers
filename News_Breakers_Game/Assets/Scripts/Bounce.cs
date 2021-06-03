@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Bounce : MonoBehaviour
 {
-    public float height;
-    public float maxHigh;
-    public float maxLow;
+    private float height;
+    private float maxHigh;
+    private float maxLow;
     private bool dir;
     private float bounceSpeed;
     

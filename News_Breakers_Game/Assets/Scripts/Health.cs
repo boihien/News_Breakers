@@ -27,9 +27,10 @@ public class Health : MonoBehaviour
     private float letterHit = 4f;
     public float curHealth;
     public float maxHealth = 20f;
+    private float armor;
     
     void Start() {
-    
+        armor = 1f;
         curHealth = maxHealth;
         healthBar.value = maxHealth;
         test = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
@@ -74,6 +75,14 @@ public class Health : MonoBehaviour
                 hearts[i].enabled = false;
             }
         }
+        
+        if (hero.GetBool("Armored")) {
+            armor = 2f;
+        }
+        
+        if (hero.GetBool("Armored2")) {
+            armor = 3f;
+        }
     }
     
     public void SetHealth()
@@ -90,18 +99,18 @@ public class Health : MonoBehaviour
         if (other.transform.tag == "Enemy") {
             damaged();
             StartCoroutine(test.Knockback(0.001f, 10, player.transform.position));
-            curHealth -= enemyHit;
+            curHealth -= enemyHit/armor;
         }
         
         if (other.transform.tag == "Letter") {
             damaged();
-            curHealth -= letterHit;
+            curHealth -= letterHit/armor;
         }
     }
     
     void dead()
     {
-        hero.SetTrigger("Hurt");
+        hero.SetBool("Hurt", true);
         numOfHearts--;
         deathSound.Play(0);
         StartCoroutine(WaitToDie());
@@ -115,6 +124,7 @@ public class Health : MonoBehaviour
     IEnumerator WaitToDie()
     {
         yield return new WaitForSeconds(1);
+        hero.SetBool("Hurt", false);
         player.transform.position = startPos;
         curHealth = maxHealth;
     }
