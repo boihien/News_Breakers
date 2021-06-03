@@ -5,6 +5,10 @@ using UnityEngine;
 public class PlayerCombat : MonoBehaviour
 {
 
+    private AudioSource audioSource;
+
+    public AudioClip armPunch;
+
     public Animator animator;
 
     public Transform attackPoint;
@@ -22,6 +26,7 @@ public class PlayerCombat : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        audioSource = GetComponent<AudioSource>();
         if (Time.time > nextAttackTime) //attack cooldown
         {
             if (Input.GetKeyDown(KeyCode.M))
@@ -30,6 +35,12 @@ public class PlayerCombat : MonoBehaviour
                 nextAttackTime = Time.time + attackRate; //attack cooldown
             }
         }
+    }
+
+    public void PlayArmSwing()
+    {
+        audioSource.clip = armPunch;
+        audioSource.Play();
     }
 
     void Attack()
