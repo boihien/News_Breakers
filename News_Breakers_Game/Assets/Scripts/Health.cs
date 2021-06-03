@@ -54,7 +54,7 @@ public class Health : MonoBehaviour
         }
         
         if (health <= 0f) {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(4);
         }
 
         for (int i = 0; i < hearts.Length; i++) {
