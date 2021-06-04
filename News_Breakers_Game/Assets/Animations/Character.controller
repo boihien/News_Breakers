@@ -543,37 +543,37 @@ AnimatorStateMachine:
     m_Position: {x: 230, y: 270, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8738081378914283230}
-    m_Position: {x: 800, y: -60, z: 0}
+    m_Position: {x: 970, y: -100, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8865734401940852410}
-    m_Position: {x: 800, y: -20, z: 0}
+    m_Position: {x: 970, y: -60, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5547785688322752346}
-    m_Position: {x: 800, y: 420, z: 0}
+    m_Position: {x: 970, y: 380, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -3880368813563682209}
-    m_Position: {x: 800, y: 380, z: 0}
+    m_Position: {x: 970, y: 340, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6818459749980371381}
-    m_Position: {x: 800, y: 20, z: 0}
+    m_Position: {x: 970, y: -20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8636678473697285546}
-    m_Position: {x: 800, y: 340, z: 0}
+    m_Position: {x: 970, y: 300, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4754973871144133468}
-    m_Position: {x: 800, y: 160, z: 0}
+    m_Position: {x: 970, y: 120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8448419126350438590}
-    m_Position: {x: 800, y: 200, z: 0}
+    m_Position: {x: 970, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1115037829991303307}
-    m_Position: {x: 800, y: 500, z: 0}
+    m_Position: {x: 970, y: 460, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -55934901314714941}
-    m_Position: {x: 800, y: 540, z: 0}
+    m_Position: {x: 970, y: 500, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1908341277525953827}
-    m_Position: {x: 800, y: 580, z: 0}
+    m_Position: {x: 970, y: 540, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5898857384190974217}
     m_Position: {x: 230, y: -20, z: 0}
@@ -593,9 +593,9 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 520, y: 180, z: 0}
+  m_AnyStatePosition: {x: 690, y: 140, z: 0}
   m_EntryPosition: {x: 60, y: 180, z: 0}
-  m_ExitPosition: {x: 1100, y: 190, z: 0}
+  m_ExitPosition: {x: 1270, y: 150, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -6933285971283465583}
 --- !u!1101 &-3167928347006279859
@@ -683,7 +683,7 @@ AnimatorStateTransition:
   serializedVersion: 3
   m_TransitionDuration: 0
   m_TransitionOffset: 0
-  m_ExitTime: 1
+  m_ExitTime: 0.458
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -1155,7 +1155,7 @@ AnimatorStateTransition:
   serializedVersion: 3
   m_TransitionDuration: 0
   m_TransitionOffset: 0
-  m_ExitTime: 1
+  m_ExitTime: 0.458
   m_HasExitTime: 1
   m_HasFixedDuration: 0
   m_InterruptionSource: 0
@@ -1309,9 +1309,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: Attack
-    m_EventTreshold: 0
-  - m_ConditionMode: 3
-    m_ConditionEvent: Walk
     m_EventTreshold: 0
   - m_ConditionMode: 1
     m_ConditionEvent: Armored2
