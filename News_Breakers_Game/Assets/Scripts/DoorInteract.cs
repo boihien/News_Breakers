@@ -15,5 +15,6 @@ public class DoorInteract : MonoBehaviour
                 
                 SceneManager.LoadScene("Loading");
         }
+    
     }
 }

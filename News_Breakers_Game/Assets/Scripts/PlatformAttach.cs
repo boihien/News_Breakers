@@ -6,6 +6,7 @@ public class PlatformAttach : MonoBehaviour
 {
     public GameObject Player;
     [SerializeField] private Animator myAnimationController;
+    
     public void OnCollisionStay2D(Collision2D other)
     {
         if(other.gameObject == Player)

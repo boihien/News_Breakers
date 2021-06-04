@@ -5,9 +5,7 @@ using UnityEngine;
 public class PlayerCombat : MonoBehaviour
 {
 
-    private AudioSource audioSource;
-
-    public AudioClip armPunch;
+    public AudioSource armPunch;
 
     public Animator animator;
 
@@ -16,9 +14,9 @@ public class PlayerCombat : MonoBehaviour
 
     public ScoreScript playerScore;
     
-    public float attackRange = 0.5f;
-    public int attackDamage = 10;
-    public float attackRate = 1f;
+    public float attackRange;
+    public int attackDamage;
+    public float attackRate;
     float nextAttackTime = 0f;
     
     public float score = 0f;
@@ -26,21 +24,27 @@ public class PlayerCombat : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        audioSource = GetComponent<AudioSource>();
+
         if (Time.time > nextAttackTime) //attack cooldown
         {
             if (Input.GetKeyDown(KeyCode.M))
             {
+                PlayArmSwing();
                 Attack();
                 nextAttackTime = Time.time + attackRate; //attack cooldown
             }
+        }
+        
+        if (animator.GetBool("Armored2")) {
+            attackRange = 50f;
+            attackDamage = 4;
+            attackRate = .25f;
         }
     }
 
     public void PlayArmSwing()
     {
-        audioSource.clip = armPunch;
-        audioSource.Play();
+        armPunch.Play(0);
     }
 
     void Attack()

@@ -26,8 +26,8 @@ public class PlayerMovement : MonoBehaviour
     private float moveDirection;
     private bool isGrounded;
     private bool isJumping = false;
-    private static bool armored1;
-    private static bool armored2;
+    public bool armored1;
+    public bool armored2;
     
     //Awake is called after all objects are initialized. Called in random
     private void Awake()
@@ -69,8 +69,7 @@ public class PlayerMovement : MonoBehaviour
         
         //Tells charcater animation to walk left, right, or idle
         hero.SetFloat("Walk",Input.GetAxis("Horizontal"));
-        hero.SetBool("Armored", armored1);
-        hero.SetBool("Armored2", armored2);
+        
     }
     
     private void Move()
@@ -120,18 +119,18 @@ public class PlayerMovement : MonoBehaviour
         if (other.transform.tag == "Armor") {
             if (Input.GetKeyDown("space") )  {
                 pickedUp.Play(0);
+                hero.SetBool("Armored", true);
+                hero.SetBool("Armored2", false);
                 Destroy(other.gameObject);
-                armored1 = false;
             }
         }
         
         if (other.transform.tag == "Leggings") {
             if (Input.GetKeyDown("space") )  {
                 pickedUp.Play(0);
+                hero.SetBool("Armored", false);
+                hero.SetBool("Armored2", true);
                 Destroy(other.gameObject);
-                armored1 = false;
-                armored2 = true;
-                
             }
         }
     }
