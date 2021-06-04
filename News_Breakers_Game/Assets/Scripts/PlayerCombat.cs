@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerCombat : MonoBehaviour
 {
 
-    public AudioSource armPunch;
+    //public AudioSource armPunch;
 
     public Animator animator;
 
@@ -29,7 +29,6 @@ public class PlayerCombat : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.M))
             {
-                PlayArmSwing();
                 Attack();
                 nextAttackTime = Time.time + attackRate; //attack cooldown
             }
@@ -40,11 +39,6 @@ public class PlayerCombat : MonoBehaviour
             attackDamage = 4;
             attackRate = .25f;
         }
-    }
-
-    public void PlayArmSwing()
-    {
-        armPunch.Play(0);
     }
 
     void Attack()
