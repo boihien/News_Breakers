@@ -19,7 +19,7 @@ public class heli : MonoBehaviour
         
     }
     
-    void OnTriggerStay(Collider other) {
+    void OnTriggerStay2D(Collider2D other) {
     
         if (other.CompareTag("Player") && Input.GetKey("up") && player.GetBool("Armored2"))
         {

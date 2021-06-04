@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed;
     public float checkRadius;
     
+    public static int nextScene;
+    
     public Transform ceilingCheck;
     public Transform groundCheck;
     
@@ -26,15 +28,13 @@ public class PlayerMovement : MonoBehaviour
     private float moveDirection;
     private bool isGrounded;
     private bool isJumping = false;
-    public bool armored1;
-    public bool armored2;
+    
     
     //Awake is called after all objects are initialized. Called in random
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        armored1 = false;
-        armored2 = false;
+        
     }
 
     private void Start()
@@ -121,6 +121,7 @@ public class PlayerMovement : MonoBehaviour
                 pickedUp.Play(0);
                 hero.SetBool("Armored", true);
                 hero.SetBool("Armored2", false);
+                nextScene = 2;
                 Destroy(other.gameObject);
             }
         }
@@ -130,6 +131,7 @@ public class PlayerMovement : MonoBehaviour
                 pickedUp.Play(0);
                 hero.SetBool("Armored", false);
                 hero.SetBool("Armored2", true);
+                nextScene = 5;
                 Destroy(other.gameObject);
             }
         }

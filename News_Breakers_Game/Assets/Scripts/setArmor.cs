@@ -5,12 +5,12 @@ using UnityEngine;
 public class setArmor : MonoBehaviour
 {
 
-    public PlayerMovement isArmored;
+    public Animator isArmored;
     
     // Start is called before the first frame update
     void Start()
     {
-        isArmored.armored1 = true;
+        isArmored.SetBool("Armored",true);
     }
 
    

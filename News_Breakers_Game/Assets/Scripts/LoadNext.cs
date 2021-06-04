@@ -13,7 +13,8 @@ public class LoadNext : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        nextScene = DoorInteract.nextScene;
+        nextScene = PlayerMovement.nextScene;
+        
         curTime = 0f;
     }
 

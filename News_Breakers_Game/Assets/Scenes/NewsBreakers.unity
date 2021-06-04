@@ -3531,6 +3531,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3261680347269199300, guid: f1676dd52ade31042a09b7553deae19f, type: 3}
   m_PrefabInstance: {fileID: 698680102}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &705241842 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5920981147148453983, guid: 4f81f94b9a6be4c15979775059527b49, type: 3}
+  m_PrefabInstance: {fileID: 550044470230671302}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &745671851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9587,7 +9592,7 @@ PrefabInstance:
     - target: {fileID: 550044471427405285, guid: 4f81f94b9a6be4c15979775059527b49, type: 3}
       propertyPath: armPunch
       value: 
-      objectReference: {fileID: 8300000, guid: 37622526b2db56242a3e7169eceb0c35, type: 3}
+      objectReference: {fileID: 705241842}
     - target: {fileID: 550044471427405285, guid: 4f81f94b9a6be4c15979775059527b49, type: 3}
       propertyPath: playerScore
       value: 
