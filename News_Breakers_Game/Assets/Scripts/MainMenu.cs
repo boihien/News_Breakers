@@ -6,9 +6,17 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     private int scene = PlayerMovement.curScene;
+    public int cur;
+    void Start(){
+    cur = scene;
+    }
     public void PlayB ()
     {
-        SceneManager.LoadScene(scene);
+        if (scene == 0) {
+            SceneManager.LoadScene(1);
+        } else {
+            SceneManager.LoadScene(scene);
+        }
     }
 
     public void Quit () 
