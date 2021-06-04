@@ -6,6 +6,7 @@ public class PlayerCombat : MonoBehaviour
 {
 
     public AudioSource armPunch;
+    public AudioSource hitSound;
 
     public Animator animator;
 
@@ -20,6 +21,10 @@ public class PlayerCombat : MonoBehaviour
     float nextAttackTime = 0f;
     
     public float score = 0f;
+    
+    void Start(){
+        playerScore = GameObject.FindGameObjectWithTag("Score").GetComponent<ScoreScript>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -56,8 +61,10 @@ public class PlayerCombat : MonoBehaviour
             if (enemy.gameObject.tag == "Enemy") {
                 enemy.GetComponent<EnemyMovement>().TakeDamage(attackDamage);
                 playerScore.scoreValue += 500;
+                hitSound.Play(0);
             } else if (enemy.gameObject.tag == "Boss") {
                 enemy.GetComponent<shootAI>().TakeDamage(attackDamage);
+                hitSound.Play(0);
             }
         }
         

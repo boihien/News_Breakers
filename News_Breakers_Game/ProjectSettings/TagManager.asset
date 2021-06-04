@@ -17,6 +17,9 @@ TagManager:
   - Letter
   - Boss
   - Leggings
+  - Hat
+  - Overlay
+  - Hearts
   layers:
   - Default
   - TransparentFX

@@ -31,6 +31,7 @@ public class shootAI : MonoBehaviour
     private void Start()
     {
         curLetter = -1;
+        playerScore = GameObject.FindGameObjectWithTag("Score").GetComponent<ScoreScript>();
     }
  
     private void Update()

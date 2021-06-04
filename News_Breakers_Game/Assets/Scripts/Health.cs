@@ -9,11 +9,13 @@ public class Health : MonoBehaviour
     public int health;
     public int numOfHearts;
 
+    public GameObject heartObj;
     public Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart;
     
     public AudioSource deathSound;
+    public AudioSource damagedSound;
     public Animator hero;
     public GameObject player;
     public PlayerMovement test;
@@ -30,10 +32,16 @@ public class Health : MonoBehaviour
     private float armor;
     
     void Start() {
+        healthBar = GameObject.FindGameObjectWithTag("Score").GetComponent<Slider>();
         armor = 1f;
         curHealth = maxHealth;
         healthBar.value = maxHealth;
         test = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
+        heartObj = GameObject.FindGameObjectWithTag("Hearts");
+        
+        for(int i = 0; i<5; i++) {
+            hearts[i] = heartObj.transform.GetChild(i).gameObject.GetComponent<Image>();
+        }
     }
     
     void Awake() {
@@ -53,8 +61,9 @@ public class Health : MonoBehaviour
             curHealth = maxHealth;
         }
         
-        if (health <= 0f) {
+        if (health <= 0) {
             SceneManager.LoadScene(4);
+            health = 5;
         }
 
         for (int i = 0; i < hearts.Length; i++) {
@@ -66,14 +75,14 @@ public class Health : MonoBehaviour
                 hearts[i].sprite = emptyHeart;
             }
 
-            if (i < numOfHearts)
+            /*if (i < numOfHearts)
             {
                 hearts[i].enabled = true;
 
             }
             else {
                 hearts[i].enabled = false;
-            }
+            }*/
         }
         
         if (hero.GetBool("Armored")) {
@@ -118,6 +127,7 @@ public class Health : MonoBehaviour
     
     void damaged()
     {
+        damagedSound.Play(0);
         hero.SetTrigger("Damaged");
     }
     

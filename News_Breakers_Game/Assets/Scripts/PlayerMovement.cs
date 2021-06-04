@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     public float checkRadius;
     
     public static int nextScene;
+    public static int curScene;
     
     public Transform ceilingCheck;
     public Transform groundCheck;
@@ -22,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
     
     public AudioSource pickedUp;
     public AudioSource jumpSound;
+    public AudioSource gameWon;
     
     private Rigidbody2D rb;
     public bool facingRight = true;
@@ -34,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        
+        curScene = SceneManager.GetActiveScene().buildIndex;
     }
 
     private void Start()
@@ -133,6 +136,15 @@ public class PlayerMovement : MonoBehaviour
                 hero.SetBool("Armored2", true);
                 nextScene = 5;
                 Destroy(other.gameObject);
+            }
+        }
+        if (other.transform.tag == "Hat") {
+            if (Input.GetKeyDown("space") )  {
+                pickedUp.Play(0);
+                gameWon.Play(0);
+                nextScene = 0;
+                Destroy(other.gameObject);
+                SceneManager.LoadScene(3);
             }
         }
     }
