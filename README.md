@@ -1,6 +1,9 @@
 # News Breakers
 Troy Hurst - Tommy Ngo - Boi-Hien Huang - Darrien Gunn - Steven Joseph
 
+## Demo Video ! 
+https://www.youtube.com/watch?v=osSjZ-ttOL4&t=86s
+
 ## Overview
 For our project, we used Unity Game Engine to create a 2D side scrolling platformer. The game includes mechanics such as jumping, running, and being able to attack various enemies. The game has multiple obstacles and is called News Breakers.
 The printing press has printed 3 big bosses that have assumed the shape of various fonts. Your character traverses through multiple hazardous areas and utilizes armor upgrades that the bosses drop. You will attempt to defeat all 3 bosses and break news to the world that evil has been defeated. 
@@ -9,13 +12,13 @@ The printing press has printed 3 big bosses that have assumed the shape of vario
 The game is broken down into 3 levels. In order to reach the early game bosses, our hero must traverse the obstacles of the stage until the final boss is met. Once the protagonist defeats the stage boss, he can equip the boss's unique item and use it to venture forth on his journey. 
 
 Level 1: Times New Roman
-![GitHub Logo](/facebook-min-capture1.PNG)
+![GitHub Logo](/Level1.png)
 
 Level 2: Danger Font
-![GitHub Logo](/facebook-min-capture1.PNG)
+![GitHub Logo](/Level2.png)
 
 Level 3: 老闆 (Boss in traditional chinese)
-![GitHub Logo](/facebook-min-capture1.PNG)
+![GitHub Logo](/Level3.png)
 
 ## Characters
 
@@ -49,5 +52,3 @@ The player is controlled using either WASD or the arrow keys to move around the 
 * Level 4/Print Press Boss - The final boss of the printing press was supposed to be implemented in level 4, but that was a stretch early on that underestimated the amount of work we already had to do.
 * Bug Free - With any game, even ones that are developed over many years, there will always be bugs. This task was more of a loose goal that everyone was working on simultaneously, but of course we can’t catch them all.
 * Health Regeneration: Was not necessarily an uncompleted task but definitely a task we wanted to implement towards the end of the game.
-
-
